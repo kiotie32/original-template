@@ -1,0 +1,35 @@
+\chapter*{}
+\begin{center}
+%\hrule height 0.5pt
+{\Huge \bfseries Author's Biography}
+\vspace{1cm}
+%\hrule height 0.5pt
+\end{center}
+
+\onehalfspace
+\noindent Bibhas Ghoshal received M.Sc degree in Electronic Science from Jadavpur University, Kolkata, in 2002, and an M.E. degree in Computer Science and Engineering from West Bengal University of Technology in 2005. He has been pursuing Ph.D. at the Department of Computer Science and Engineering, IIT Kharagpur, since January 2010. He was university topper in B.Sc examination and received merit award for excellence in M.Sc examination. Even though his Ph.D. is on Testing of NoC based memory systems, his general research interests include FPGA based system design, CAD for VLSI, Image Processing, Open source application development.
+
+\singlespace
+\begin{center}
+%\hrule height 0.5pt
+\vspace{0.3cm}
+{\bfseries {\large Publications made out of this thesis\\}}
+(listed in reverse chronological order)
+\vspace{0.3cm}
+%\hrule height 0.5pt
+\end{center}
+
+\begin{enumerate}
+	\item {Bibhas Ghoshal}, Chittaranjan Mandal and Indranil Sengupta, ``Refresh Re-Use based Transparent Test for
+Detection of Hard Faults Developed during Field Operation of DRAMs'', \textit{{communicated to} IEEE Transactions on VLSI Systems (TVLSI)} {(under review)}. {(Long Paper)}
+	\item {Bibhas Ghoshal},Kanchan Manna, Santanu Chattopadhay, Indranil Sengupta , ``On-line field test for
+permanent faults in NoC buffers'', \textit{{communicated to} IEEE Transactions on VLSI Systems (TVLSI)} {(under review)}. {(Long Paper)} 
+	\item {Bibhas Ghoshal},Chittaranjan Mandal and Indranil Sengupta , ``Re-using Refresh for Self-testing DRAMs'',  \textit{in Proceedings of the  International Symposium on Eletronic System Design
+	(ISED 2013) held at NTU Singapore from 12-13 December, 2013}. {(Long Paper)}
+
+         \item {Bibhas Ghoshal}, and Indranil Sengupta , ``A Distributed BIST Scheme for NoC-based Memory Cores'',  \textit{in Proceedings of the 16th EuroMicro Conference on Digital System Design held at Santander, Spain (4th - 6th September 2013)} . {(Long Paper)}
+
+        \item {Bibhas Ghoshal},Subhadip Kundu, Indranil Sengupta, Santanu Chattopadhay, ``Particle Swarm Optimization Based BIST Design for Memory Cores in Mesh Based Network-on-Chip'',  \textit{in Proceedings of the 16th International Symposium on VLSI Design and Test (VDAT 2012)}. {(Short Paper)}
+	
+	  
+\end{enumerate}

@@ -1,0 +1,72 @@
+% \documentclass[a4paper,11pt]{article}
+% \setlength{\textheight}{10cm} \setlength{\topmargin}{0mm}
+% \setlength{\textwidth}{8 in} \setlength{\oddsidemargin}{.80cm}
+% \setlength{\abovecaptionskip}{10pt}
+% \setlength{\belowcaptionskip}{10pt}
+% 
+% %\usepackage{floatrow}
+% \usepackage{setspace}
+% \usepackage{array}
+% \usepackage{epstopdf}
+% \usepackage[cmex10]{amsmath}
+% %\textwidth 6.5in
+% %\addtolength{\oddsidemargin}{-.5in}
+% %\textheight 10in
+% %\addtolength{\topmargin}{-1in}
+% \addtocounter{secnumdepth}{2}
+% %\setlength{\parindent}{0pt}
+% \usepackage{algorithm}
+% %\usepackage{algorithm2e}
+% \usepackage{algorithmic}
+% %\usepackage{algorithmicx}
+% %\usepackage{algpseudocode}
+% \usepackage{epstopdf}
+% \usepackage[cmex10]{amsmath}
+% \usepackage{hyperref}
+% \usepackage{graphicx}
+% \usepackage{epsfig}
+% \usepackage{amsmath}
+% \usepackage{geometry}
+% \usepackage{setspace}
+% \usepackage{fixltx2e}
+% \usepackage{multirow}
+% %\usepackage[belowskip=-20pt,aboveskip=2pt]{caption}
+% %\raggedbottom
+% \geometry{letterpaper,tmargin=.9in,bmargin=.3in,lmargin=1in,rmargin=1in,headheight=0 in,headsep= 0.45in,footskip=.30in}
+% \setlength{\parindent}{0.4in}
+% % \newcommand{\mysection}[1]{\section{#1}  \hspace{0.5in}}
+% % \newcommand{\mysubsection}[1]{\vspace{-7mm}\subsection{#1}  \hspace{0.2in}}
+% % \newcommand{\mysubsubsection}[1]{\vspace{-3mm} \subsubsection{#1}  \hspace{0.3in}}
+% 
+% \newtheorem{thm}{Theorem}[section]
+% \newtheorem{cor}[thm]{Corollary}
+% \newtheorem{lem}[thm]{Lemma}
+% 
+% 
+% \normalsize
+% \renewcommand{\baselinestretch}{1.0}
+% %\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+% %\floatsetup[table]{capposition=top}
+% %\graphicspath{ {/home/arya/Desktop/synopsis_seminar/figures/} }
+% \graphicspath{ {./figures/} }
+% \begin{document}
+%  \begin{center}
+%  \LARGE \bf \underline{ABSTRACT}
+%  \end{center}
+% \vspace {35pt}
+
+Radio Frequency Identification (RFID) technology is a powerful tool for identification of any object uniquely. Bar code or similar kind of technologies are also can be used for identification of the objects. 
+%However, RFID technology is much efficient than the bar code or similar kind of technologies. 
+Hwoever, the accuracy of object identification is far better in RFID technology since it does not have any line-of-sight constraint. The popularity of this technology has also been boosted due to its low cost. However, this technology becomes a cost effective solution by compromising the resources (hardware). Therefore, implementation of any application in this technology is a challenging task. This technology is one of the most pervasive computing technology and vulnerable to various kinds of attacks such as eavesdropping, replay attack, etc. However, we cannot use any standard cryptographic primitive in this technology in order to provide security against these attacks. Proper lightweight cryptography primitives need to be used without compromising the security.
+
+Due to pervasive property of RFID technology, authentication is an important requirement in various RFID applications to restrict the non-legitimate access to certain resources. Many lightweight authentication schemes have been proposed till date. In the present thesis, we have tried to solve the location privacy problem that presents in many existing authentication schemes. Our solution can be applied over an existing authentication scheme to overcome the location privacy problem. However, this solution requires a small amount of additional hardware (288 gates) in RFID tag for its implementation. We also identified the vulnerability of de-synchronization attack in the authentication scheme proposed by Khor et al. (2010) and suggest a solution to fix this problem.
+
+The detection probability of an object is low when it is attached with a single RFID tag. This can be improved by attaching multiple number of tags in a manner such that if any part of the object is within the coverage area of the reader, at least one tag attached to the object will be in the coverage area. This is called multi-tag environment.
+%Because the part of the object where the tag is attached may not be within the coverage area of the reader while some other parts are within the coverage area of the reader. Therefore, the object is undetected even when some parts of the object are within the coverage area. Attaching multiple tags to an object can increase the detection probability. However, attachment should be in a manner such that if any part of the object is within the coverage area of the reader, at least one tag attached to the object will be in the coverage area. 
+The existing authentication schemes suffer from low object detection probability since they assume that the objects are attached with single tag. Theses schemes cannot be extended to multi-tag environment. Because they use one set of security related information for an object and keeping the same information in multiple tags attached to the same object is vulnerable. The adversary can easily compromise all the tags by compromising only a single tag. Therefore, an authentication scheme needs to be designed in multi-tag environment which can increase the difficulty for the adversary without compromising the detection probability of the object. In the present thesis, we propose two lightweight and secure authentication schemes in multi-tag environment. In the first authentication schemes, all the tags are allowed to response on a request from a RFID reader. This increases a traffic congestion in the communication medium between the object and the RFID reader. In order to overcome this problem, we propose another authentication scheme in multi-tag environment. In this scheme, an object is attached with multiple number of active tags among which one of them performs the authentication task. If this tag does not exist within the coverage area of the reader, it obtains information through the other tags attached to the same object. Hence, the detection probability of an object does not decrease. Though the proposed scheme uses multiple tags, the traffic congestion does not increase as a result of single response from each object. 
+
+Sometime, an object needs to be found from a large set. Any authentication scheme can be extended for this purpose. However, this approach is inefficient since $\frac{n}{2}$ number objects in average need to be authenticated in order to search an object. Similar to the authentication schemes, existing object searching schemes which assume the objects are attached with single tag cannot be extended to multi-tag environment. It is needless to say that there is a need of a secure and lightweight object searching scheme in multi-tag environment. In the present thesis, we propose a secure and lightweight object searching scheme in multi-tag environment.
+
+Some applications require the coexistence of a group of two or more relevant objects which can help to perform a particular event. Absence of one or more objects in the group can produce a wrong outcome. An assurance in the form of a proof of coexistence of the desired objects can help to execute the event without any error. This problem can be solved using RFID technology. The existing proof generation schemes assume that the objects are attached with single tag and these schemes cannot be extended to multi-tag environment. In this thesis, we initially propose a secure and lightweight proof generation and validation scheme in multi-tag environment for a group of two objects. Later we extended the protocol to adopt a group of arbitrary number of objects.
+
+Various kinds of analyses have been conducted in the thesis in order to evaluate the applicability of the proposed schemes. A thorough analysis has been performed as a part of this work to find the possible attacks that can occur during the execution of the proposed protocols. Formal and informal analyses have been carried out to verify the robustness of the proposed schemes. This shows that the proposed protocols can satisfy most of the security requirements. Since the RFID technology has various resource constraints, the thesis also analyzes and compares the resource requirements of the proposed protocols in terms of computation, communication and storage.

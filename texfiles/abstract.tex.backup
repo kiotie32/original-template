@@ -1,0 +1,58 @@
+% \documentclass[a4paper,11pt]{article}
+% \setlength{\textheight}{10cm} \setlength{\topmargin}{0mm}
+% \setlength{\textwidth}{8 in} \setlength{\oddsidemargin}{.80cm}
+% \setlength{\abovecaptionskip}{10pt}
+% \setlength{\belowcaptionskip}{10pt}
+% 
+% %\usepackage{floatrow}
+% \usepackage{setspace}
+% \usepackage{array}
+% \usepackage{epstopdf}
+% \usepackage[cmex10]{amsmath}
+% %\textwidth 6.5in
+% %\addtolength{\oddsidemargin}{-.5in}
+% %\textheight 10in
+% %\addtolength{\topmargin}{-1in}
+% \addtocounter{secnumdepth}{2}
+% %\setlength{\parindent}{0pt}
+% \usepackage{algorithm}
+% %\usepackage{algorithm2e}
+% \usepackage{algorithmic}
+% %\usepackage{algorithmicx}
+% %\usepackage{algpseudocode}
+% \usepackage{epstopdf}
+% \usepackage[cmex10]{amsmath}
+% \usepackage{hyperref}
+% \usepackage{graphicx}
+% \usepackage{epsfig}
+% \usepackage{amsmath}
+% \usepackage{geometry}
+% \usepackage{setspace}
+% \usepackage{fixltx2e}
+% \usepackage{multirow}
+% %\usepackage[belowskip=-20pt,aboveskip=2pt]{caption}
+% %\raggedbottom
+% \geometry{letterpaper,tmargin=.9in,bmargin=.3in,lmargin=1in,rmargin=1in,headheight=0 in,headsep= 0.45in,footskip=.30in}
+% \setlength{\parindent}{0.4in}
+% % \newcommand{\mysection}[1]{\section{#1}  \hspace{0.5in}}
+% % \newcommand{\mysubsection}[1]{\vspace{-7mm}\subsection{#1}  \hspace{0.2in}}
+% % \newcommand{\mysubsubsection}[1]{\vspace{-3mm} \subsubsection{#1}  \hspace{0.3in}}
+% 
+% \newtheorem{thm}{Theorem}[section]
+% \newtheorem{cor}[thm]{Corollary}
+% \newtheorem{lem}[thm]{Lemma}
+% 
+% 
+% \normalsize
+% \renewcommand{\baselinestretch}{1.0}
+% %\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+% %\floatsetup[table]{capposition=top}
+% %\graphicspath{ {/home/arya/Desktop/synopsis_seminar/figures/} }
+% \graphicspath{ {./figures/} }
+% \begin{document}
+%  \begin{center}
+%  \LARGE \bf \underline{ABSTRACT}
+%  \end{center}
+% \vspace {35pt}
+
+The popularity of \textbf{R}adio \textbf{F}requency \textbf{ID}entification (RFID) in various applications is due to its low cost. The low cost comes with the compromise in hardware used in its implementation. Therefore, the standard authentication and cryptographic methods cannot be used for implementation of any security related application. Various lightweight authentication schemes have been proposed till date.

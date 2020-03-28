@@ -1,0 +1,5005 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.27)  21 NOV 2014 11:52
+entering extended mode
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./iitkgp.cls
+Document Class: iitkgp 
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks14
+\AP@partial=\box26
+\AP@footins=\box27
+))
+(/usr/share/texmf-texlive/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2009/07/09 v1.1 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/share/texmf-texlive/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count88
+\cp@tempcnt=\count89
+LaTeX Info: Redefining \ch@ngetext on input line 80.
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks16
+\c@AM@survey=\count94
+\AM@templatesizebox=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count95
+\Gm@cntv=\count96
+\c@Gm@tempcnt=\count97
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@dimlist=\toks17
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+) (./algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks18
+\float@box=\box30
+\@float@everytoks=\toks19
+\@floatcapt=\box31
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count99
+) (./algpseudocode.sty
+Package: algpseudocode 
+
+(./algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count100
+\c@ALG@rem=\count101
+\c@ALG@nested=\count102
+\ALG@tlm=\skip46
+\ALG@thistlm=\skip47
+\c@ALG@Lnr=\count103
+\c@ALG@blocknr=\count104
+\c@ALG@storecount=\count105
+\c@ALG@tmpcounter=\count106
+\ALG@tmplength=\skip48
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (./comment.sty Excluding comment 'comment') (./arydshln.sty
+Package: arydshln 2004/08/31 v1.71 
+\dashlinedash=\dimen111
+\dashlinegap=\dimen112
+\adl@box=\box32
+\adl@height=\dimen113
+\adl@heightsave=\dimen114
+\adl@depth=\dimen115
+\adl@depthsave=\dimen116
+\adl@finaldepth=\dimen117
+\adl@columns=\count107
+\adl@ncol=\count108
+\adl@currentcolumn=\count109
+\adl@currentcolumnsave=\count110
+\adl@totalheight=\count111
+\adl@totalheightsave=\count112
+\adl@dash=\count113
+\adl@gap=\count114
+\adl@cla=\count115
+\adl@clb=\count116
+\adl@everyvbox=\toks21
+\adl@LTpagetotal=\dimen118
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+) (./amssymb.sty
+AMS-LaTeX option `amssymb.sty' (1.1, 21-JUN-1991)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+
+LaTeX Warning: You have requested package `amssymb',
+               but the package provides `amsfonts'.
+
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 49.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 49.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 49.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 50.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 64.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 65.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 66.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \dabar@ on input line 76.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `normal'
+(Font)                  U/euf/m/n --> U/euf/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/b/n --> U/euf/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+LaTeX Font Info:    Overwriting encoding scheme math defaults on input line 98.
+
+LaTeX Info: Redefining \frak on input line 99.
+LaTeX Info: Redefining \Bbb on input line 101.
+LaTeX Info: Redefining \bold on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 130
+.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleleft on input line 131.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglerighteq on input line 132.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglelefteq on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \rightsquigarrow on input line 134.
+
+)
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 41.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 42.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 43.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 45.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 46.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 48.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 49.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 50.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 52.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 53.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 54.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 55.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 56.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 57.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 58.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 59.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 60.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 61.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 62.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 63.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 64.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 66.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 67.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 68.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 69.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 70.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 71.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 72.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 73.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 74.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 76.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 77.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 78.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 79.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 80.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 81.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 82.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 83.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 84.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 85.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 86.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 88.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 89.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 90.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 91.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 92.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 93.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 94.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 95.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 96.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 97.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 98.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 99.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 100.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 101.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 102.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 103.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 104.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 105.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 106.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 111.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 112.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 113.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 114.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 115.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 116.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 117.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 118.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 119.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 120.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 121.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 122.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 123.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 124.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 125.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 126.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 127.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 128.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 129.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 130.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 131.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 132.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 133.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 134.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 135.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 136.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 138.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 140.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 141.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 142.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 143.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 144.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 145.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 146.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 147.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 148.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 150.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 152.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 153.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 154.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 155.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 156.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 157.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 158.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 159.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 160.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 161.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 162.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 163.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 164.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 165.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 166.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 167.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 168.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 169.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 170.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 171.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 172.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 173.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 174.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 175.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 176.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 177.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 178.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 179.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 180.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 181.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 182.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 183.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 184.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 185.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 186.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 187.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 188.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 189.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 190.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 191.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 192.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 193.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 194.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 195.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 196.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 197.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 198.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 199.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 200.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 201.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 202.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 203.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 204.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 205.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 206.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 207.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 208.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 209.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 210.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 211.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 212.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 213.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 214.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 215.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 216.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 217.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 218.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 219.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 220.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 221.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 222.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 223.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 224.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 225.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 226.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 227.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 228.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 229.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 230.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 231.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 232.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 233.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 234.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 235.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 236.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 237.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 238.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 239.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 240.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 241.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 242.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 243.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 244.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 245.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 246.
+
+
+Package amsfonts Warning: Obsolete command \newsymbol; \DeclareMathSymbol shoul
+d be used instead on input line 247.
+
+) (/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen119
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen120
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count117
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count118
+\leftroot@=\count119
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count120
+\DOTSCASE@=\count121
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
+\dotsspace@=\muskip10
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks24
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks25
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks26
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen128
+\epsfysize=\dimen129
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2009/10/17 v2.4 Base part for package epstopdf
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 433.
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
+)))
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+) (./subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(./caption.sty
+Package: caption 2006/03/21 v3.0j Customising captions (AR)
+ (./caption3.sty
+Package: caption3 2006/03/16 v3.0j caption3 kernel (AR)
+\captionmargin=\dimen130
+\captionmarginx=\dimen131
+\captionwidth=\dimen132
+\captionindent=\dimen133
+\captionparindent=\dimen134
+\captionhangindent=\dimen135
+)
+Package caption Info: float package v1.3 (or newer) detected on input line 272.
+
+)
+\c@KVtest=\count129
+\sf@farskip=\skip52
+\sf@captopadj=\dimen136
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count130
+\c@subfigure@save=\count131
+\c@lofdepth=\count132
+\c@subtable=\count133
+\c@subtable@save=\count134
+\c@lotdepth=\count135
+\sf@top=\skip55
+\sf@bottom=\skip56
+) (./multirow.sty
+\bigstrutjot=\dimen137
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count136
+\rotFPtop=\skip57
+\rotFPbot=\skip58
+\rot@float@box=\box35
+\rot@mess@toks=\toks29
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) (./footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks30
+\footnotemargin=\dimen138
+\c@pp@next@reset=\count137
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(./booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count138
+\@cmidlb=\count139
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count140
+\@lastruleclass=\count141
+\@thisrulewidth=\dimen151
+) (./colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen152
+\extrarowheight=\dimen153
+\NC@list=\toks31
+\extratabsurround=\skip59
+\backup@length=\skip60
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks32
+\minrowclearance=\skip61
+) (./threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box36
+)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks33
+\thm@bodyfont=\toks34
+\thm@headfont=\toks35
+\thm@notefont=\toks36
+\thm@headpunct=\toks37
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks38
+)
+(/usr/share/texmf-texlive/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+) (./fancyhdr.sty
+\headwidth=\dimen154
+)
+(./cite.sty
+LaTeX Info: Redefining \cite on input line 233.
+LaTeX Info: Redefining \nocite on input line 304.
+Package: cite 2009/03/20  v 5.0x
+) (/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen155
+\Hy@linkcounter=\count142
+\Hy@pagecounter=\count143
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2864
+.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 2864.
+Package hyperref Info: Option `plainpages' set `false' on input line 2864.
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count144
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
+\Field@toks=\toks39
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count145
+\c@Item=\count146
+\c@Hfootnote=\count147
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count148
+) (./breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks40
+\XKV@tempa@toks=\toks41
+\XKV@depth=\count149
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+)
+\c@thm=\count150
+ (./thesis.aux
+
+LaTeX Warning: Label `theorem1ap1' multiply defined.
+
+)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 349.
+LaTeX Font Info:    ... okay on input line 349.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 349.
+
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count151
+\scratchdimen=\dimen158
+\scratchbox=\box37
+\nofMPsegments=\count152
+\nofMParguments=\count153
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count154
+\MPscratchDim=\dimen159
+\MPnumerator=\count155
+\everyMPtoPDFconversion=\toks43
+) ABD: EveryShipout initializing macros
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 71.70166pt, 0.7\paperwidth , 107.55254pt (default)
+v-parts: 101.40665pt, 0.7\paperheight , 152.11pt (default)
+hmarginratio: 2:3
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  418.25368pt
+\textheight 591.5302pt
+\oddsidemargin  -0.56833pt
+\evensidemargin 35.28255pt
+\topmargin  2.03543pt
+\headheight 9.03374pt
+\headsep    18.06749pt
+\footskip   18.06749pt
+\marginparwidth 72.0pt
+\marginparsep   0.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(./ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+ (./everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+Package caption Info: hyperref package v6.74m (or newer) detected on input line
+ 349.
+Package caption Info: rotating package v2.0 (or newer) detected on input line 3
+49.
+Package hyperref Info: Link coloring ON on input line 349.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count156
+)
+LaTeX Info: Redefining \ref on input line 349.
+LaTeX Info: Redefining \pageref on input line 349.
+ (./thesis.out)
+(./thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+\AtBeginShipoutBox=\box38
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 356.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 356.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 356.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{bm:Title.0})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.356 \makepreliminarypages
+                           
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 356.
+Package epstopdf Info: Source file: <logo.eps>
+(epstopdf)                    date: 2008-11-13 11:55:18
+(epstopdf)                    size: 289225 bytes
+(epstopdf)             Output file: <logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-05-20 16:51:46
+(epstopdf)                    size: 27042 bytes
+(epstopdf)             Command: <epstopdf --outfile=logo-eps-converted-to.pdf l
+ogo.eps>
+(epstopdf)             \includegraphics on input line 356.
+Package epstopdf Info: Output file is already uptodate.
+
+<logo-eps-converted-to.pdf, id=333, 357.335pt x 388.45125pt>
+File: logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use logo-eps-converted-to.pdf>
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 356.
+
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 356.
+ [3 <./logo-eps-converted-to.pdf>] [4
+
+
+]
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 356.
+ (/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 356.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 356.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+
+ []
+
+[5] [6
+
+
+] [7] [8
+
+
+] [9] [10
+
+
+] (./texfiles/acknowledgments.tex) [11] [12
+
+
+]
+(./texfiles/abstract.tex [13] [14])
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[15] [16
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 361.
+ (./thesis.toc [17
+
+
+
+]
+
+LaTeX Warning: Citation `Khor2010' on page xviii undefined on input line 38.
+
+
+LaTeX Warning: Citation `Khor2010' on page xviii undefined on input line 41.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[18])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[19] [20
+
+
+] (./texfiles/cv.tex) [21
+
+] [22
+
+
+] (./thesis.lof
+
+LaTeX Warning: Citation `Khor2010' on page xxiii undefined on input line 10.
+
+)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [23
+
+] [24
+
+
+] (./thesis.lot)
+\tf@lot=\write7
+\openout7 = `thesis.lot'.
+
+ [25
+
+] [26
+
+
+] (./texfiles/introduction.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+[1
+
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+
+
+LaTeX Warning: Citation `multitag2007' on page 2 undefined on input line 7.
+
+
+LaTeX Warning: Citation `multitag2007' on page 2 undefined on input line 7.
+
+
+LaTeX Warning: Citation `multitag2007' on page 2 undefined on input line 8.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[2]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[3]
+
+LaTeX Warning: Citation `wies2004' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Tsudik2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Burmester2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Tsudik2007' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `conti2007' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `tan2007' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `song2008' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `zhang2008' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `HB2001' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `HBP2005' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `HBPP2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Gilbert2005' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Piramuthu2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `sindhu2005' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 4 undefined on input line 37
+.
+
+
+LaTeX Warning: Citation `Lietal2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 4 undefined on input line 37
+.
+
+
+LaTeX Warning: Citation `He2009' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Lietal2006' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Khor2010' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `Lars2010' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `duc2006' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `chienchen2007' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Hoque2010' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `batina2007' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Leeetal.2008' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Deursen2008' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Bringer2008' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Leeetal.2009' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Deursen2009' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Leeetal.2010' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Gyozo2010' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Yi-Pin2013' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Manik2013' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Yi-Pin2014' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 4 undefined on input line 38.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[4]
+
+LaTeX Warning: Citation `Khor2010' on page 5 undefined on input line 40.
+
+
+LaTeX Warning: Citation `sindhu2005' on page 5 undefined on input line 40.
+
+
+LaTeX Warning: Citation `duc2006' on page 5 undefined on input line 40.
+
+
+LaTeX Warning: Citation `Khor2010' on page 5 undefined on input line 40.
+
+
+LaTeX Warning: Citation `multitag2007' on page 5 undefined on input line 42.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[5]
+
+LaTeX Warning: Citation `Tanos2008' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Ahmed2008' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 6 undefined on input line 54.
+
+
+
+LaTeX Warning: Citation `Leeetal.2010' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Min2013' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Min2013' on page 6 undefined on input line 54.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[6]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[7]
+
+LaTeX Warning: Citation `Juels2004' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `saito2005' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `saito2005' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `Bolotnny2006' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `PPLopez2007' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `Juels2004' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `saito2005' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `burmester2009' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `yao2010' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `duc2010' on page 8 undefined on input line 71.
+
+
+LaTeX Warning: Citation `Nai2010' on page 8 undefined on input line 71.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[8]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[9]
+
+LaTeX Warning: Citation `Khor2010' on page 10 undefined on input line 79.
+
+
+LaTeX Warning: Citation `Lars2010' on page 10 undefined on input line 79.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[10]
+
+LaTeX Warning: Citation `Khor' on page 11 undefined on input line 81.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[11]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[12]
+
+LaTeX Warning: Citation `Khor2010' on page 13 undefined on input line 100.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[13]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[14]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[15]
+
+LaTeX Warning: Citation `Khor2010' on page 16 undefined on input line 119.
+
+
+LaTeX Warning: Reference `chap:preliminary' on page 16 undefined on input line 
+124.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+LaTeX Warning: Citation `Khor2010' on page 16 undefined on input line 128.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[16])
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[17] [18
+
+
+] (./texfiles/literature.tex
+Chapter 2.
+
+LaTeX Warning: Citation `GuidelinesforSecuringRadioFrequencyIdentification(RFID
+)Systems' on page 19 undefined on input line 3.
+
+
+LaTeX Warning: Citation `NIST' on page 19 undefined on input line 3.
+
+
+LaTeX Warning: Citation `patent' on page 19 undefined on input line 6.
+
+
+LaTeX Warning: Citation `wikipedia' on page 19 undefined on input line 6.
+
+<figures/preliminaries/barcode.png, id=685, 301.125pt x 100.375pt>
+File: figures/preliminaries/barcode.png Graphic file (type png)
+
+<use figures/preliminaries/barcode.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `colorbarcode' on page 19 undefined on input line 15.
+
+
+LaTeX Warning: Citation `colorbarcode1' on page 19 undefined on input line 15.
+
+
+LaTeX Warning: Citation `colorbarcode2' on page 19 undefined on input line 15.
+
+[19
+
+] <figures/preliminaries/QRCode.png, id=691, 200.75pt x 200.75pt>
+File: figures/preliminaries/QRCode.png Graphic file (type png)
+
+<use figures/preliminaries/QRCode.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[20 <./figures/preliminaries/barcode.png (PNG copy)> <./figures/preliminaries/Q
+RCode.png (PNG copy)>]
+<figures/preliminaries/RFIDsystem.png, id=700, 484.05844pt x 321.45094pt>
+File: figures/preliminaries/RFIDsystem.png Graphic file (type png)
+
+<use figures/preliminaries/RFIDsystem.png>
+<figures/preliminaries/tagdesign.png, id=702, 861.9703pt x 405.01312pt>
+File: figures/preliminaries/tagdesign.png Graphic file (type png)
+
+<use figures/preliminaries/tagdesign.png>
+Overfull \hbox (93.9082pt too wide) in paragraph at lines 62--63
+ [] 
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[21 <./figures/preliminaries/RFIDsystem.png (PNG copy)>]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[22 <./figures/preliminaries/tagdesign.png (PNG copy)>]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[23]
+
+LaTeX Warning: Citation `multitag2007' on page 24 undefined on input line 99.
+
+
+LaTeX Warning: Citation `multitag2007' on page 24 undefined on input line 99.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[24]
+<figures/preliminaries/incidenceangle.png, id=724, 204.765pt x 328.22626pt>
+File: figures/preliminaries/incidenceangle.png Graphic file (type png)
+
+<use figures/preliminaries/incidenceangle.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[25 <./figures/preliminaries/incidenceangle.png (PNG copy)>]
+<figures/preliminaries/multitagarrangement.png, id=731, 353.82187pt x 352.31625
+pt>
+File: figures/preliminaries/multitagarrangement.png Graphic file (type png)
+ <use figures/preliminaries/multitagarrangement.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[26 <./figures/preliminaries/multitagarrangement.png (PNG copy)>]
+
+LaTeX Warning: Citation `multitag2007' on page 27 undefined on input line 128.
+
+
+LaTeX Warning: Citation `A.Juels.RFIDsecurityandprivacy:Aresearchsurvey.Manuscr
+ipt' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `2005' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `P.Peris-Lopez' on page 27 undefined on input line 132.
+
+
+
+LaTeX Warning: Citation `J.C.Hernandez-Castro' on page 27 undefined on input li
+ne 132.
+
+
+LaTeX Warning: Citation `J.M.Estevez-Tapidor' on page 27 undefined on input lin
+e 132.
+
+
+LaTeX Warning: Citation `andRibagorda.RFIDsystems:Asurveyonsecuritythreatsandpr
+oposedsolutions.InProccedingsofPWC06' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `pp.159-170' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `2006.' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `S.Piramuthu.ProtocolsforRFIDtag/readerauthentication.D
+ecsisionsupportsystems' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `2007' on page 27 undefined on input line 132.
+
+
+LaTeX Warning: Citation `M.Feldhoper' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Wolkerstorfer' on page 27 undefined on input line 13
+6.
+
+
+LaTeX Warning: Citation `andV.Rijmen.AESimplementationonagrainofsand.InProceedi
+ngsofInformationsecurity' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `Vol.152' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.13-120' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2005' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `A.Satoh' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Morioka' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `K.Takano' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `andS.Munetoh' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `AcompactRijndaelhardwarearchitecturewithS-boxoptimizat
+ion' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `InProceedingsASIACRYPT'01' on page 27 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Citation `pp.239-254' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2001' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `N.Pramstaller' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `S.Mangard' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Dominikus' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Wolkerstorfer' on page 27 undefined on input line 13
+6.
+
+
+LaTeX Warning: Citation `EfficientAESimplementationonASICsandFPGAs' on page 27 
+undefined on input line 136.
+
+
+LaTeX Warning: Citation `InproceedingsoffourthworkshopontheAdvancedEncryptionSt
+andard"AES-StateoftheCryptoAnalysis"' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.98-112' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2004.' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `A.Poschmann' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `G.Leander' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `K.Schramm' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `C.Paar' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `NewlightweightcryptoalgorithmsforRFID' on page 27 unde
+fined on input line 136.
+
+
+LaTeX Warning: Citation `InIEEEInternationsymphosiumoncircuitsandsystems2007' o
+n page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `ISCAS2007' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.1843-1846' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2007' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Kumar' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `C.Paar' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Pelzl' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `G.Pfeiffer' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `andM.Schimmler' on page 27 undefined on input line 136
+.
+
+
+LaTeX Warning: Citation `BreakingcipherswithwithCOPACOBANA-Acostoptimizedparall
+elcodebreaker' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `InproceedingsofCHES'06' on page 27 undefined on input 
+line 136.
+
+
+LaTeX Warning: Citation `pp.101-118' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2006.' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `A.Bogdanov' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `L.R.Knudsen' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `G.Leander' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `C.Paar' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `A.Poschmann' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `M.J.B.Robshaw' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `Y.Seurin' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `andC.Vikkelsoe' on page 27 undefined on input line 136
+.
+
+
+LaTeX Warning: Citation `PRESESNT:Anultra-lightweightcipher' on page 27 undefin
+ed on input line 136.
+
+
+LaTeX Warning: Citation `InproceedingsofCHES'07' on page 27 undefined on input 
+line 136.
+
+
+LaTeX Warning: Citation `pp.450-466' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2007.' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `M.Feldhoper' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Wolkerstorfer' on page 27 undefined on input line 13
+6.
+
+
+LaTeX Warning: Citation `andV.Rijmen.AESimplementationonagrainofsand.InProceedi
+ngsofInformationsecurity' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `Vol.152' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.13-120' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2005' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `M.Wan' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `DifferentialcryptanalysisofPRESENT' on page 27 undefin
+ed on input line 136.
+
+
+LaTeX Warning: Citation `InCryptologyePrintArchive' on page 27 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Citation `Report2007/408' on page 27 undefined on input line 136
+.
+
+
+LaTeX Warning: Citation `2007' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `D.Hong' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Sung' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Hong' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Lim' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Lee' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `B-S.Koo' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `C.Lee' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `D.Chang' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Lee' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `K.jeong' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `H.Kim' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `J.Kim' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `andS.Chee' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `HIGHT:Anewblockciphersuitableforlow-resourcedevice.Inp
+roceedingsofCHESS'06' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.46-59' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2006' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `T.Shirai' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `K.Shibutani' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `T.Akishita' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `S.Moriai' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `andT.Iwata' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `The128-bitblockcipherCLEFIA' on page 27 undefined on i
+nput line 136.
+
+
+LaTeX Warning: Citation `InproceedingsFSE'07' on page 27 undefined on input lin
+e 136.
+
+
+LaTeX Warning: Citation `pp.181-195' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2007' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `F.X.Standaert' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `G.Piret' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `N.Gershenfeld' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `andJ.J.Quisquarter' on page 27 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation `SEA:Ascalableencryptionalgorithmforsmallembeddedapplic
+ations' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `InproceedingsofCARDIS'06' on page 27 undefined on inpu
+t line 136.
+
+
+LaTeX Warning: Citation `pp.222-236' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2006' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `F.Mace' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `F.X.Standaert' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `andJ.J.Quisquarter' on page 27 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation `ASICimplementationsoftheblockcipherSEAforconstrainedap
+plications' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `InproceedingsofRFIDSec'07' on page 27 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Citation `pp.103-114' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2007' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `F.Mace' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `F.X.Standaert' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `andJ.J.Quisquarter' on page 27 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation `FPGAimplemantaion(s)ofscalableencryptionalgorithm' on 
+page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `InIEEEtransactiononVeryLargeScaleIntegration(VLSI)Syst
+ems' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `Vol.16' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `pp.212-216' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `2008' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `D.WheelerandR.Needham' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `TEA:Atinyencryptonalgorithm' on page 27 undefined on i
+nput line 136.
+
+
+LaTeX Warning: Citation `InproceedingsofFSE'04' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `pp.363-366' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `1994' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `R.NeedhamandD.Wheeler' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `TEAextensions' on page 27 undefined on input line 136.
+
+
+
+LaTeX Warning: Citation `Technicalreport' on page 27 undefined on input line 13
+6.
+
+
+LaTeX Warning: Citation `Computerlaboratory' on page 27 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation `UniversityofCambridge' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `1997' on page 27 undefined on input line 136.
+
+
+LaTeX Warning: Citation `R.NeedhamandD.Wheeler' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `CorrectiontoXTEA' on page 27 undefined on input line 1
+36.
+
+
+LaTeX Warning: Citation `Technicalreport' on page 27 undefined on input line 13
+6.
+
+
+LaTeX Warning: Citation `Computerlaboratory' on page 27 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation `UniversityofCambridge' on page 27 undefined on input l
+ine 136.
+
+
+LaTeX Warning: Citation `1998' on page 27 undefined on input line 136.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[27]
+
+LaTeX Warning: Citation `M.hell' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `T.Johansson' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `andW.Meier' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Grain:Astreamcipherforconstrainedenvironments' on page
+ 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2005' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `M.hell' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `T.Johansson' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `andW.Meier' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Astreamcipherproposal:Grain-128' on page 28 undefined 
+on input line 138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2006' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `C.DeCannireandB.Preneel' on page 28 undefined on input
+ line 138.
+
+
+LaTeX Warning: Citation `Triviumspecification' on page 28 undefined on input li
+ne 138.
+
+
+LaTeX Warning: Citation `http://wwww.ecrypt.eu.org/stream/' on page 28 undefine
+d on input line 138.
+
+
+LaTeX Warning: Citation `2005' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `M.Rogawski.HardwareevaluationofeSTREAMcandidates:Grain
+' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Lex' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Mickey-128' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Salsa20andTrivium' on page 28 undefined on input line 
+138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2007' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `M.Rogawski.HardwareevaluationofeSTREAMcandidates:Grain
+' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Lex' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Mickey-128' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Salsa20andTrivium' on page 28 undefined on input line 
+138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2007' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `T.GoodandM.Benaissa' on page 28 undefined on input lin
+e 138.
+
+
+LaTeX Warning: Citation `Hardwareresultsforselectedstreamciphercandidates' on p
+age 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2007' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `P.Bulens' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `K.Kalach' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `F.X.Standaert' on page 28 undefined on input line 138.
+
+
+
+LaTeX Warning: Citation `andJ.J.Quisquater' on page 28 undefined on input line 
+138.
+
+
+LaTeX Warning: Citation `FPGAimplementationsofeSTREAMphase-2focuscandidateswith
+hardwareprofile' on page 28 undefined on input line 138.
+
+
+LaTeX Warning: Citation `http://www.ecrypt.eu.org/stream/' on page 28 undefined
+ on input line 138.
+
+
+LaTeX Warning: Citation `2007' on page 28 undefined on input line 138.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[28]
+
+LaTeX Warning: Citation `batina2007' on page 29 undefined on input line 140.
+
+
+LaTeX Warning: Citation `Zhangkitsos2009' on page 29 undefined on input line 14
+3.
+
+
+LaTeX Warning: Citation `M.FeldhoferandC.Rechberger' on page 29 undefined on in
+put line 143.
+
+
+LaTeX Warning: Citation `AcaseagainstcurrentlyusedhashfunctionsinRFIDprotocols'
+ on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `InproceedingsofWorkshoponRFIDandLightweightCryptograph
+y' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `2006' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Zhangkitsos2009' on page 29 undefined on input line 14
+3.
+
+
+LaTeX Warning: Citation `K.Yksel' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `J.P.Kaps' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `andB.Sunar' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Universalhashfunctionsforemergingultra-low-powernetwor
+ks' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `InproceedingsofCNDS'04' on page 29 undefined on input 
+line 143.
+
+
+LaTeX Warning: Citation `2004' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Zhangkitsos2009' on page 29 undefined on input line 14
+3.
+
+
+LaTeX Warning: Citation `P.Peris-Lopez' on page 29 undefined on input line 143.
+
+
+
+LaTeX Warning: Citation `J.C.Harnandez-Castro' on page 29 undefined on input li
+ne 143.
+
+
+LaTeX Warning: Citation `J.Estevez-Tapiador' on page 29 undefined on input line
+ 143.
+
+
+LaTeX Warning: Citation `andA.Ribagorda' on page 29 undefined on input line 143
+.
+
+
+LaTeX Warning: Citation `AnefficientauthenticationprotocolforRFIDsystemsresista
+nttoactiveattacks' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `InproceedingsSecUbiq'07' on page 29 undefined on input
+ line 143.
+
+
+LaTeX Warning: Citation `pp.781-794' on page 29 undefined on input line 143.
+
+
+LaTeX Warning: Citation `2006' on page 29 undefined on input line 143.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[29]
+
+LaTeX Warning: Citation `Zhangkitsos2009' on page 30 undefined on input line 14
+6.
+
+
+LaTeX Warning: Citation `P.Peris-Lopez' on page 30 undefined on input line 146.
+
+
+
+LaTeX Warning: Citation `J.C.Harnandez-Castro' on page 30 undefined on input li
+ne 146.
+
+
+LaTeX Warning: Citation `J.Estevez-Tapiador' on page 30 undefined on input line
+ 146.
+
+
+LaTeX Warning: Citation `andA.Ribagorda' on page 30 undefined on input line 146
+.
+
+
+LaTeX Warning: Citation `LAMED-APRNGforEPCClass-1Generation-2RFIDspecification'
+ on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `JournalofComputerStandardsandInterfaces' on page 30 un
+defined on input line 146.
+
+
+LaTeX Warning: Citation `Vol.31' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Issues1' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `pp.88-97' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `January2009' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `J.Walker' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Randomnessbattery.http://www.fourmilab.ch/random/' on 
+page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `1998' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `G.Marsaglia' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `TheMarsagliarandomnumberCDROMincludingtheDIEHARDbatter
+yoftestsofrandomness' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `G.MarsagliaandW.W.Tsang' on page 30 undefined on input
+ line 146.
+
+
+LaTeX Warning: Citation `Somedifficult-to-passtestsofrandomness' on page 30 und
+efined on input line 146.
+
+
+LaTeX Warning: Citation `JournalofStatisticalSoftware' on page 30 undefined on 
+input line 146.
+
+
+LaTeX Warning: Citation `Vol.7' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Issues3' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `pp.1-8' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `2002' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `A.Rukhin' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `J.Soto' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `J.Nechvatal' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `M.Smid' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `E.Barker' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `S.Leigh' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `M.Levenson' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `M.Vangel' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `D.Banks' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `A.Heckert' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `J.Dray' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `andS.Vo' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Astatisticaltestsuitforrandomandpseudorandomnumbergene
+ratorsforcryptographicapplications' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `NISTspecialpublication800-22' on page 30 undefined on 
+input line 146.
+
+
+LaTeX Warning: Citation `http://csrc.nist.gov/rng/' on page 30 undefined on inp
+ut line 146.
+
+
+LaTeX Warning: Citation `2001' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `DavidSexton'sbattery' on page 30 undefined on input li
+ne 146.
+
+
+LaTeX Warning: Citation `http://www.geocities.com/da5id65536' on page 30 undefi
+ned on input line 146.
+
+
+LaTeX Warning: Citation `2005' on page 30 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Ngaia2008' on page 30 undefined on input line 185.
+
+
+LaTeX Warning: Citation `Zhangkitsos2009' on page 30 undefined on input line 18
+5.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[30]
+
+LaTeX Warning: Citation `wies2004' on page 31 undefined on input line 189.
+
+
+LaTeX Warning: Citation `wies2004' on page 31 undefined on input line 210.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[31]
+
+LaTeX Warning: Citation `Tsudik2006' on page 32 undefined on input line 212.
+
+
+LaTeX Warning: Citation `Burmester2006' on page 32 undefined on input line 212.
+
+
+
+LaTeX Warning: Citation `Tsudik2007' on page 32 undefined on input line 212.
+
+
+LaTeX Warning: Citation `Tsudik2006' on page 32 undefined on input line 214.
+
+
+LaTeX Warning: Citation `Burmester2006' on page 32 undefined on input line 214.
+
+
+
+LaTeX Warning: Citation `conti2007' on page 32 undefined on input line 216.
+
+
+LaTeX Warning: Citation `Tsudik2006' on page 32 undefined on input line 216.
+
+
+LaTeX Warning: Citation `Tsudik2007' on page 32 undefined on input line 216.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[32]
+
+LaTeX Warning: Citation `tan2007' on page 33 undefined on input line 218.
+
+
+LaTeX Warning: Citation `tan2007' on page 33 undefined on input line 218.
+
+
+LaTeX Warning: Citation `song2008' on page 33 undefined on input line 222.
+
+
+LaTeX Warning: Citation `Rizomiliotis2009' on page 33 undefined on input line 2
+22.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[33]
+
+LaTeX Warning: Citation `zhang2008' on page 34 undefined on input line 226.
+
+
+LaTeX Warning: Citation `HB2001' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `HBP2005' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `HBPP2006' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `HBP2005' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `Gilbert2005' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `HBPP2006' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `HBPP2006' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `Piramuthu2006' on page 34 undefined on input line 239.
+
+
+
+LaTeX Warning: Citation `conti2007' on page 34 undefined on input line 239.
+
+
+LaTeX Warning: Citation `Piramuthu2006' on page 34 undefined on input line 239.
+
+
+
+LaTeX Warning: Citation `Piramuthu2006' on page 34 undefined on input line 239.
+
+
+
+LaTeX Warning: Citation `sindhu2005' on page 34 undefined on input line 241.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 34 undefined on input line 2
+41.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[34]
+
+LaTeX Warning: Citation `Lietal2006' on page 35 undefined on input line 245.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 35 undefined on input line 2
+45.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 35 undefined on input line 2
+47.
+
+
+LaTeX Warning: Citation `He2009' on page 35 undefined on input line 247.
+
+
+LaTeX Warning: Citation `He2009' on page 35 undefined on input line 249.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 35 undefined on input line 2
+49.
+
+
+LaTeX Warning: Citation `Lietal2006' on page 35 undefined on input line 249.
+
+
+LaTeX Warning: Citation `chienandchen2007' on page 35 undefined on input line 2
+49.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[35]
+
+LaTeX Warning: Citation `Khor2010' on page 36 undefined on input line 254.
+
+
+LaTeX Warning: Citation `Lars2010' on page 36 undefined on input line 256.
+
+
+LaTeX Warning: Citation `duc2006' on page 36 undefined on input line 260.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[36]
+
+LaTeX Warning: Citation `chienchen2007' on page 37 undefined on input line 262.
+
+
+
+LaTeX Warning: Citation `duc2006' on page 37 undefined on input line 262.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 37 undefined on input line 262.
+
+
+LaTeX Warning: Citation `chienchen2007' on page 37 undefined on input line 264.
+
+
+
+LaTeX Warning: Citation `Tzu2010' on page 37 undefined on input line 264.
+
+
+LaTeX Warning: Citation `Hoque2010' on page 37 undefined on input line 266.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[37]
+
+LaTeX Warning: Citation `Hyung2010' on page 38 undefined on input line 273.
+
+
+LaTeX Warning: Citation `schnorr1989' on page 38 undefined on input line 276.
+
+
+LaTeX Warning: Citation `okamoto1992' on page 38 undefined on input line 276.
+
+
+LaTeX Warning: Citation `batina2007' on page 38 undefined on input line 276.
+
+
+LaTeX Warning: Citation `Leeetal.2008' on page 38 undefined on input line 276.
+
+
+LaTeX Warning: Citation `batina2007' on page 38 undefined on input line 276.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[38]
+
+LaTeX Warning: Citation `Leeetal.2008' on page 39 undefined on input line 278.
+
+
+LaTeX Warning: Citation `Deursen2008' on page 39 undefined on input line 278.
+
+
+LaTeX Warning: Citation `Bringer2008' on page 39 undefined on input line 278.
+
+
+LaTeX Warning: Citation `Leeetal.2009' on page 39 undefined on input line 278.
+
+
+LaTeX Warning: Citation `Deursen2009' on page 39 undefined on input line 279.
+
+
+LaTeX Warning: Citation `Leeetal.2010' on page 39 undefined on input line 279.
+
+
+LaTeX Warning: Citation `Gyozo2010' on page 39 undefined on input line 281.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 39 undefined on input line 283.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[39]
+
+LaTeX Warning: Citation `Tanos2008' on page 40 undefined on input line 290.
+
+
+LaTeX Warning: Citation `Safkhani2012' on page 40 undefined on input line 290.
+
+
+LaTeX Warning: Citation `Safkhani2012' on page 40 undefined on input line 290.
+
+
+LaTeX Warning: Citation `Safkhani2012' on page 40 undefined on input line 291.
+
+
+LaTeX Warning: Citation `Ahmed2008' on page 40 undefined on input line 396.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[40]
+
+LaTeX Warning: Citation `Kulseng2009' on page 41 undefined on input line 398.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 41 undefined on input line 398.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 41 undefined on input line 45
+1.
+
+
+LaTeX Warning: Citation `Leeetal.2010' on page 41 undefined on input line 494.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[41]
+
+LaTeX Warning: Citation `Yoon2011' on page 42 undefined on input line 496.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 42 undefined on input line 530.
+
+
+LaTeX Warning: Citation `Min2013' on page 42 undefined on input line 530.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[42]
+
+LaTeX Warning: Citation `Min2013' on page 43 undefined on input line 566.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 43 undefined on input line 566.
+
+
+LaTeX Warning: Citation `Juels2004' on page 43 undefined on input line 644.
+
+
+LaTeX Warning: Citation `saito2005' on page 43 undefined on input line 644.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[43]
+
+LaTeX Warning: Citation `saito2005' on page 44 undefined on input line 646.
+
+
+LaTeX Warning: Citation `Juels2004' on page 44 undefined on input line 646.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 44 undefined on input line 646
+.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 44 undefined on input line 646
+.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 44 undefined on input line 648
+.
+
+
+LaTeX Warning: Citation `saito2005' on page 44 undefined on input line 648.
+
+
+LaTeX Warning: Citation `PPLopez2007' on page 44 undefined on input line 648.
+
+
+LaTeX Warning: Citation `chin-chung2007' on page 44 undefined on input line 648
+.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[44]
+
+LaTeX Warning: Citation `Bolotnny2006' on page 45 undefined on input line 650.
+
+
+LaTeX Warning: Citation `PPLopez2007' on page 45 undefined on input line 688.
+
+
+LaTeX Warning: Citation `chin-chung2007' on page 45 undefined on input line 693
+.
+
+
+LaTeX Warning: Citation `PiramuthOB2006' on page 45 undefined on input line 693
+.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[45]
+
+LaTeX Warning: Citation `burmester2009' on page 46 undefined on input line 695.
+
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[46]
+
+LaTeX Warning: Citation `yao2010' on page 47 undefined on input line 697.
+
+
+LaTeX Warning: Citation `duc2010' on page 47 undefined on input line 699.
+
+
+LaTeX Warning: Citation `Nai2010' on page 47 undefined on input line 701.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[47]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[48]
+
+LaTeX Warning: Citation `sindhu2005' on page 49 undefined on input line 707.
+
+
+LaTeX Warning: Citation `He2009' on page 49 undefined on input line 707.
+
+
+LaTeX Warning: Citation `Lars2010' on page 49 undefined on input line 707.
+
+
+LaTeX Warning: Citation `batina2007' on page 49 undefined on input line 707.
+
+
+LaTeX Warning: Citation `Lars2010' on page 49 undefined on input line 707.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[49]
+
+LaTeX Warning: Citation `bolotnyy2007' on page 50 undefined on input line 709.
+
+)
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[50]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[51] [52
+
+
+] (./texfiles/LocationPrivacy.tex
+Chapter 3.
+
+LaTeX Warning: Citation `Khor2010' on page 53 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Lars2010' on page 53 undefined on input line 7.
+
+
+LaTeX Warning: Citation `sindhu2005' on page 53 undefined on input line 7.
+
+
+LaTeX Warning: Citation `batina2007' on page 53 undefined on input line 7.
+
+
+LaTeX Warning: Citation `He2009' on page 53 undefined on input line 7.
+
+[53
+
+]
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 15.
+
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 17.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 17.
+
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 19.
+
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 19.
+
+<figures/locationprivacy/fig1.png, id=868, 1107.13625pt x 718.685pt>
+File: figures/locationprivacy/fig1.png Graphic file (type png)
+
+<use figures/locationprivacy/fig1.png>
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 24.
+
+
+LaTeX Warning: Citation `Khor2010' on page 54 undefined on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--28
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+
+ []
+
+
+Overfull \vbox (16.11407pt too high) has occurred while \output is active []
+
+
+[55 <./figures/locationprivacy/fig1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[56]
+
+LaTeX Warning: Citation `Khor2010' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Lars2010' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `sindhu2005' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `batina2007' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `He2009' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Khor2010' on page 57 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Lars2010' on page 57 undefined on input line 54.
+
+<figures/locationprivacy/fig2.png, id=882, 906.38625pt x 297.11pt>
+File: figures/locationprivacy/fig2.png Graphic file (type png)
+
+<use figures/locationprivacy/fig2.png>
+Overfull \vbox (16.11407pt too high) has occurred while \output is active []
+
+
+[57 <./figures/locationprivacy/fig2.png (PNG copy)>]
+
+LaTeX Warning: Citation `Khor' on page 58 undefined on input line 75.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[58]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[59]
+
+LaTeX Warning: Citation `Lars2010' on page 60 undefined on input line 103.
+
+
+LaTeX Warning: Citation `Khor2010' on page 60 undefined on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 107.
+
+
+LaTeX Warning: Citation `Khor2010' on page 60 undefined on input line 108.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+LaTeX Warning: Citation `Khor2010' on page 60 undefined on input line 114.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+LaTeX Warning: Citation `Khor2010' on page 60 undefined on input line 116.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[60]
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 121.
+
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 123.
+
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 129.
+
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sl' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/sl' tried instead on input line 398.
+
+
+LaTeX Warning: Citation `Khor2010' on page 61 undefined on input line 398.
+
+
+Overfull \vbox (16.11407pt too high) has occurred while \output is active []
+
+
+[61]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[62] (./texfiles/authentication.tex
+Chapter 4.
+
+LaTeX Warning: Citation `multitag2007' on page 63 undefined on input line 5.
+
+
+LaTeX Warning: Citation `multitag2007' on page 63 undefined on input line 5.
+
+[63
+
+
+
+]
+
+LaTeX Warning: Citation `multitag2007' on page 64 undefined on input line 40.
+
+
+<figures/authentication/1/communication.png, id=922, 900.36375pt x 190.7125pt>
+File: figures/authentication/1/communication.png Graphic file (type png)
+
+<use figures/authentication/1/communication.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[64] <figures/authentication/1/backend.png, id=928, 827.09pt x 121.45375pt>
+File: figures/authentication/1/backend.png Graphic file (type png)
+
+<use figures/authentication/1/backend.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[65 <./figures/authentication/1/communication.png (PNG copy)>]
+<figures/authentication/1/protocol.png, id=936, 1188.44pt x 788.9475pt>
+File: figures/authentication/1/protocol.png Graphic file (type png)
+
+<use figures/authentication/1/protocol.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[66 <./figures/authentication/1/backend.png (PNG copy)> <./figures/authenticati
+on/1/protocol.png (PNG copy)>]
+
+LaTeX Warning: Citation `multitag2007' on page 67 undefined on input line 165.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 171.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 4.2714pt on input line 241.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[68]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[69]
+
+LaTeX Warning: Citation `shannon1948' on page 70 undefined on input line 257.
+
+
+Overfull \hbox (7.68446pt too wide) in paragraph at lines 258--259
+[]\OT1/ptm/m/it/10.95 Location pri-vacy: $\OMS/cmsy/m/n/10.95 A$ \OT1/ptm/m/n/1
+0.95 can try to find out a pat-tern us-ing the in-for-ma-tion $\OML/cmm/m/it/10
+.95 K[]; P[]; P[]; P[]; g[]; v$
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[70]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[72]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[73]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 402.
+
+LaTeX Warning: Citation `dm2007' on page 75 undefined on input line 402.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 76 undefined on input line 442.
+
+
+LaTeX Warning: Citation `wies2004' on page 76 undefined on input line 443.
+
+
+LaTeX Warning: Citation `song2008' on page 76 undefined on input line 444.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 76 undefined on input line 445.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 76 undefined on input line 446.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[76]
+
+LaTeX Warning: Citation `wies2004' on page 77 undefined on input line 468.
+
+
+LaTeX Warning: Citation `song2008' on page 77 undefined on input line 468.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 77 undefined on input line 468.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 77 undefined on input line 468.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 77 undefined on input line 495.
+
+
+LaTeX Warning: Citation `wies2004' on page 77 undefined on input line 495.
+
+
+LaTeX Warning: Citation `song2008' on page 77 undefined on input line 495.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 77 undefined on input line 495.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 77 undefined on input line 495.
+
+
+Overfull \hbox (2.85835pt too wide) in paragraph at lines 479--495
+ [] 
+ []
+
+
+LaTeX Warning: Citation `song2008' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `wies2004' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `song2008' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `song2008' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 77 undefined on input line 571.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 77 undefined on input line 571.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[77]
+
+LaTeX Warning: Citation `wies2004' on page 78 undefined on input line 585.
+
+
+LaTeX Warning: Citation `wies2004' on page 78 undefined on input line 586.
+
+
+LaTeX Warning: Citation `song2008' on page 78 undefined on input line 587.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 78 undefined on input line 588.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 78 undefined on input line 589.
+
+
+LaTeX Warning: Citation `wies2004' on page 78 undefined on input line 599.
+
+
+LaTeX Warning: Citation `song2008' on page 78 undefined on input line 599.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 78 undefined on input line 599.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 78 undefined on input line 599.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 78 undefined on input line 612.
+
+
+LaTeX Warning: Citation `wies2004' on page 78 undefined on input line 613.
+
+
+LaTeX Warning: Citation `song2008' on page 78 undefined on input line 614.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 78 undefined on input line 615.
+
+
+LaTeX Warning: Citation `GuoRui2012' on page 78 undefined on input line 616.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[78]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[79]
+<figures/authentication/2/communication.png, id=1041, 936.49875pt x 194.7275pt>
+File: figures/authentication/2/communication.png Graphic file (type png)
+<use figures/authentication/2/communication.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[80 <./figures/authentication/2/communication.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[81]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[82]
+Overfull \hbox (2.85118pt too wide) in paragraph at lines 763--835
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 56.08765pt on input line 836.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[83]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[84]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[85]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[86]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[87]
+
+LaTeX Warning: Citation `wies2004' on page 88 undefined on input line 980.
+
+
+LaTeX Warning: Citation `zhang2008' on page 88 undefined on input line 980.
+
+
+LaTeX Warning: Citation `song2008' on page 88 undefined on input line 980.
+
+
+LaTeX Warning: Citation `Khor2010' on page 88 undefined on input line 980.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 88 undefined on input line 980.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 88 undefined on input line 980.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[88]
+
+LaTeX Warning: Citation `shannon1948' on page 89 undefined on input line 990.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[89]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[90]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1023
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[92]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[93]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[94]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[95]
+Overfull \vbox (33.54823pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
+
+ []
+
+
+LaTeX Warning: Citation `dm2007' on page 97 undefined on input line 1174.
+
+
+LaTeX Warning: Citation `dm2007' on page 97 undefined on input line 1174.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[97]
+
+LaTeX Warning: Citation `wies2004' on page 98 undefined on input line 1201.
+
+
+LaTeX Warning: Citation `zhang2008' on page 98 undefined on input line 1201.
+
+
+LaTeX Warning: Citation `song2008' on page 98 undefined on input line 1201.
+
+
+LaTeX Warning: Citation `Khor2010' on page 98 undefined on input line 1201.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 98 undefined on input line 1201.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 98 undefined on input line 1201.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1202
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 98 undefined on input line 1215.
+
+
+LaTeX Warning: Citation `wies2004' on page 98 undefined on input line 1216.
+
+
+LaTeX Warning: Citation `zhang2008' on page 98 undefined on input line 1217.
+
+
+LaTeX Warning: Citation `song2008' on page 98 undefined on input line 1218.
+
+
+LaTeX Warning: Citation `Khor2010' on page 98 undefined on input line 1219.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 98 undefined on input line 1220.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 98 undefined on input line 1221.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[98]
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `zhang2008' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `song2008' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `Khor2010' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1270.
+
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `song2008' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Khor2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `song2008' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Khor2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `zhang2008' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `song2008' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Khor2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1280.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1280.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1281
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1294.
+
+
+LaTeX Warning: Citation `wies2004' on page 99 undefined on input line 1295.
+
+
+LaTeX Warning: Citation `zhang2008' on page 99 undefined on input line 1296.
+
+
+LaTeX Warning: Citation `song2008' on page 99 undefined on input line 1297.
+
+
+LaTeX Warning: Citation `Khor2010' on page 99 undefined on input line 1298.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 99 undefined on input line 1299.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 99 undefined on input line 1300.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[99]
+
+LaTeX Warning: Citation `wies2004' on page 100 undefined on input line 1309.
+
+
+LaTeX Warning: Citation `zhang2008' on page 100 undefined on input line 1309.
+
+
+LaTeX Warning: Citation `song2008' on page 100 undefined on input line 1309.
+
+
+LaTeX Warning: Citation `Khor2010' on page 100 undefined on input line 1309.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 100 undefined on input line 1309.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 100 undefined on input line 1309.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1310
+
+ []
+
+
+LaTeX Warning: Citation `wies2004' on page 100 undefined on input line 1312.
+
+
+LaTeX Warning: Citation `song2008' on page 100 undefined on input line 1312.
+
+
+LaTeX Warning: Citation `Khor2010' on page 100 undefined on input line 1312.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 100 undefined on input line 1312.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 100 undefined on input line 1312.
+
+
+LaTeX Warning: Citation `wies2004' on page 100 undefined on input line 1321.
+
+
+LaTeX Warning: Citation `wies2004' on page 100 undefined on input line 1322.
+
+
+LaTeX Warning: Citation `zhang2008' on page 100 undefined on input line 1323.
+
+
+LaTeX Warning: Citation `song2008' on page 100 undefined on input line 1324.
+
+
+LaTeX Warning: Citation `Khor2010' on page 100 undefined on input line 1325.
+
+
+LaTeX Warning: Citation `Tzu2010' on page 100 undefined on input line 1326.
+
+
+LaTeX Warning: Citation `Hyung2010' on page 100 undefined on input line 1327.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[100]
+
+LaTeX Warning: Citation `zhang2008' on page 101 undefined on input line 1340.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[101])
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[102] (./texfiles/searching.tex
+Chapter 5.
+
+LaTeX Warning: Citation `Ngaia2008' on page 103 undefined on input line 3.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 103 undefined on input line 3.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 3.
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: Citation `Tanos2008' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Ahmed2008' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 103 undefined on input line 5
+.
+
+
+LaTeX Warning: Citation `Leeetal.2010' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Min2013' on page 103 undefined on input line 5.
+
+
+LaTeX Warning: Citation `multitag2007' on page 103 undefined on input line 5.
+
+[103
+
+
+
+] <figures/searching/communic.png, id=1191, 936.49875pt x 430.60875pt>
+File: figures/searching/communic.png Graphic file (type png)
+
+<use figures/searching/communic.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[104 <./figures/searching/communic.png (PNG copy)>]
+<figures/searching/tagdata.png, id=1197, 655.44875pt x 88.33pt>
+File: figures/searching/tagdata.png Graphic file (type png)
+
+<use figures/searching/tagdata.png>
+<figures/searching/protocol.png, id=1198, 941.5175pt x 667.49374pt>
+File: figures/searching/protocol.png Graphic file (type png)
+
+<use figures/searching/protocol.png>
+Overfull \hbox (18.9712pt too wide) in paragraph at lines 64--97
+\OT1/ptm/m/n/10.95 Each tag con-tains a se-cret key $\OML/cmm/m/it/10.95 S[]$\O
+T1/ptm/m/n/10.95 , two ses-sion keys $\OML/cmm/m/it/10.95 N[]; N[]$\OT1/ptm/m/n
+/10.95 , and two iden-ti-fiers $[][]\OML/cmm/m/it/10.95 ; [][]$\OT1/ptm/m/n/10.
+95 .
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[105]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 171.
+
+LaTeX Warning: Float too large for page by 42.77615pt on input line 224.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[106 <./figures/searching/tagdata.png (PNG copy)>]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[107 <./figures/searching/protocol.png (PNG copy)>]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[108]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+
+ []
+
+
+LaTeX Warning: Citation `shannon1948' on page 110 undefined on input line 245.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[113]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[114]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[115]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[116]
+
+LaTeX Warning: Citation `dm2007' on page 117 undefined on input line 413.
+
+
+LaTeX Warning: Citation `dm2007' on page 117 undefined on input line 413.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[117]
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 445.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 445.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 118 undefined on input line 4
+45.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 118 undefined on input line 445.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 118 undefined on input line 445.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 454.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 456.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 458.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 460.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 462.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 464.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 466.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 118 undefined on input line 4
+68.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 118 undefined on input line 470.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 118 undefined on input line 472.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 118 undefined on input line 6
+25.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 118 undefined on input line 625.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 118 undefined on input line 625.
+
+
+Overfull \hbox (2.84914pt too wide) in paragraph at lines 500--626
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--639
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 118 undefined on input line 642.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 118 undefined on input line 642.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 118 undefined on input line 6
+42.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 118 undefined on input line 642.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 118 undefined on input line 642.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[118]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--649
+
+ []
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 120 undefined on input line 650.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 120 undefined on input line 6
+50.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 120 undefined on input line 650.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[120]
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 681.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 683.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 685.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 687.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 689.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 691.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 693.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 121 undefined on input line 6
+95.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 121 undefined on input line 697.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 121 undefined on input line 699.
+
+
+Overfull \hbox (27.08403pt too wide) in paragraph at lines 676--705
+ [] 
+ []
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 717.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 717.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 121 undefined on input line 717.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 121 undefined on input line 7
+17.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 121 undefined on input line 717.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 735.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 737.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 739.
+
+
+LaTeX Warning: Citation `Tanos2008' on page 121 undefined on input line 741.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 743.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 745.
+
+
+LaTeX Warning: Citation `Kulseng2009' on page 121 undefined on input line 747.
+
+
+LaTeX Warning: Citation `Hoquesearch2010' on page 121 undefined on input line 7
+49.
+
+
+LaTeX Warning: Citation `Yoon2011' on page 121 undefined on input line 751.
+
+
+LaTeX Warning: Citation `Zheng2013' on page 121 undefined on input line 753.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[121])
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[122]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[123] [124
+
+
+] (./texfiles/binding.tex
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[125
+
+]
+
+LaTeX Warning: Citation `multitag2007' on page 126 undefined on input line 8.
+
+<figures/binding/fig2.png, id=1336, 504.88625pt x 278.03876pt>
+File: figures/binding/fig2.png Graphic file (type png)
+
+<use figures/binding/fig2.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[126] <figures/binding/tagdata.png, id=1343, 936.49875pt x 104.39pt>
+File: figures/binding/tagdata.png Graphic file (type png)
+
+<use figures/binding/tagdata.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[127 <./figures/binding/fig2.png (PNG copy)> <./figures/binding/tagdata.png (PN
+G copy)>]
+
+LaTeX Warning: Reference `subscheme2' on page 128 undefined on input line 135.
+
+
+LaTeX Warning: Reference `subscheme3' on page 128 undefined on input line 135.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[128]
+
+LaTeX Warning: Float too large for page by 42.34384pt on input line 197.
+
+<figures/binding/protocol.png, id=1371, 879.285pt x 766.865pt>
+File: figures/binding/protocol.png Graphic file (type png)
+
+<use figures/binding/protocol.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[129]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[130]
+Overfull \vbox (99.93904pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[131 <./figures/binding/protocol.png (PNG copy)>]
+Overfull \hbox (18.50815pt too wide) in paragraph at lines 250--260
+[]\OT1/ptm/m/n/10.95 The on-line server then (in Step 4) gen-er-ates $\OML/cmm/
+m/it/10.95 r[]$ \OT1/ptm/m/n/10.95 us-ing $\OML/cmm/m/it/10.95 l$ \OT1/ptm/m/n/
+10.95 num-ber of valid re-sponses $\OML/cmm/m/it/10.95 P[]; P[]; :::; P[]$\OT1/
+ptm/m/n/10.95 ,
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[132]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[133]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[134]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[135]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[137]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[138]
+
+LaTeX Warning: Citation `Juels2004' on page 139 undefined on input line 406.
+
+
+LaTeX Warning: Citation `Bolotnny2006' on page 139 undefined on input line 406.
+
+
+
+LaTeX Warning: Citation `yao2010' on page 139 undefined on input line 406.
+
+
+LaTeX Warning: Citation `duc2010' on page 139 undefined on input line 406.
+
+
+LaTeX Warning: Citation `Juels2004' on page 139 undefined on input line 417.
+
+
+LaTeX Warning: Citation `Bolotnny2006' on page 139 undefined on input line 419.
+
+
+
+LaTeX Warning: Citation `yao2010' on page 139 undefined on input line 421.
+
+
+LaTeX Warning: Citation `duc2010' on page 139 undefined on input line 423.
+
+
+LaTeX Warning: Citation `Juels2004' on page 139 undefined on input line 447.
+
+
+LaTeX Warning: Citation `Bolotnny2006' on page 139 undefined on input line 447.
+
+
+
+LaTeX Warning: Citation `yao2010' on page 139 undefined on input line 447.
+
+
+LaTeX Warning: Citation `duc2010' on page 139 undefined on input line 447.
+
+
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[139] <figures/binding/protocol2.png, id=1441, 739.76375pt x 749.80125pt>
+File: figures/binding/protocol2.png Graphic file (type png)
+
+<use figures/binding/protocol2.png>
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[140 <./figures/binding/protocol2.png (PNG copy)>])
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[141]
+Overfull \vbox (4.56625pt too high) has occurred while \output is active []
+
+
+[142] (./texfiles/conclusion.tex
+Chapter 7.
+) [143
+
+
+
+] [144
+
+
+] (./thesis.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [145
+
+
+
+] (./thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1349 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 9870 strings out of 495061
+ 142111 string characters out of 1182621
+ 270226 words of memory out of 3000000
+ 12338 multiletter control sequences out of 15000+50000
+ 53427 words of font info for 107 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 43i,22n,62p,5567b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.2.8} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.5.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.5.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.5.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cms
+y9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb
+></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-t
+exlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/u
+rw/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb
+></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-t
+exlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (171 pages, 1649512 bytes).
+PDF statistics:
+ 1628 PDF objects out of 1728 (max. 8388607)
+ 380 named destinations out of 1000 (max. 500000)
+ 741 words of extra memory for PDF output out of 10000 (max. 10000000)
+

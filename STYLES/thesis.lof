@@ -1,0 +1,24 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Sample barcode}}{20}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sample QR code}}{20}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces RFID system}}{21}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Baic components in a RFID Tag}}{22}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Angle between tag and reader}}{25}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Tag orientation for three tags}}{26}{figure.2.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Fingerprint-based mutual authentication protocol \cite {Khor2010}}}{55}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Proposed solution applied over the explained scheme in section\nobreakspace {}\ref {fingerprintkhor}}}{57}{figure.3.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Communication model for the object authentication scheme}}{65}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Information in backend server}}{66}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Proposed authentication protocol}}{66}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Communication model for the authentication scheme 2}}{80}{figure.4.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Communication model for the proposed object searching protocol}}{104}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Protocol to search an object}}{107}{figure.5.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Communication model for the proposed coexistence proof generation protocol}}{127}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Proof generation protocol}}{131}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Proof generation protocol for a group of more than two objects}}{140}{figure.6.3}
+\addvspace {10\p@ }

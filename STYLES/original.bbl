@@ -1,0 +1,1428 @@
+\begin{thebibliography}{100}
+
+\bibitem{400M_tweets_daily}
+{Twitter now averaging 400 million tweets daily}.
+\newblock
+  \url{http://gadgets.ndtv.com/social-networking/news/twitter-now-averaging-40%
+0-million-tweets-daily-228413}, Jun 2012.
+
+\bibitem{abbasi_arxiv}
+A.~Abbasi, L.~Hossain, and L.~Leydesdorff.
+\newblock {Betweenness Centrality as a Driver of Preferential Attachment in the
+  Evolution of Research Collaboration Networks}.
+\newblock {\em {arXiv:1111.6804 [cs.SI]}}, 2012.
+
+\bibitem{ada-score}
+{Americans for Democratic Action}.
+\newblock \url{www.adaction.org}.
+
+\bibitem{Ahn_HugeOSNs}
+Y.-Y. Ahn, S.~Han, H.~Kwak, S.~Moon, and H.~Jeong.
+\newblock Analysis of topological characteristics of huge online social
+  networking services.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 835--844, 2007.
+
+\bibitem{Albert2000_LinkRewiring}
+R.~Albert and A.-L. Barab\'asi.
+\newblock Topology of evolving networks: Local events and universality.
+\newblock {\em {Physical Review Letters}}, 85(24):5234--5237, Dec 2000.
+
+\bibitem{barabasi02_statmech}
+R.~Albert and A.-L. Barab\'asi.
+\newblock Statistical mechanics of complex networks.
+\newblock {\em {Reviews of Modern Physics}}, 74(1):47--97, Jan 2002.
+
+\bibitem{Allamanis_locationOSN}
+M.~Allamanis, S.~Scellato, and C.~Mascolo.
+\newblock {Evolution of a Location-based Online Social Network: Analysis and
+  Models}.
+\newblock In {\em {Proceedings of ACM Internet Measurement Conference (IMC)}},
+  2012.
+
+\bibitem{amaral00}
+L.~A.~N. Amaral, A.~Scala, M.~Barthelemy, and H.~E. Stanley.
+\newblock Classes of small-world networks.
+\newblock {\em {Proceedings of the National Academy of Sciences of U.S.A.
+  (PNAS)}}, 97(21):11149--11152, October 2000.
+
+\bibitem{Anderson_EmailSpam_usenix07}
+D.~S. Anderson, C.~Fleizach, S.~Savage, and G.~M. Voelker.
+\newblock {Spamscatter: characterizing internet scam hosting infrastructure}.
+\newblock In {\em {Proceedings of USENIX Security Symposium}}, pages
+  10:1--10:14, 2007.
+
+\bibitem{spatio_temporal_twitter_arxiv}
+S.~Ardon, A.~Bagchi, A.~Mahanti, A.~Ruhela, A.~Seth, R.~M. Tripathy, and
+  S.~Triukose.
+\newblock {Spatio-Temporal Analysis of Topic Popularity in Twitter}.
+\newblock {\em {arXiv:1111.2904 [cs.SI]}}, 2011.
+
+\bibitem{Backstrom_groupform}
+L.~Backstrom, D.~Huttenlocher, J.~Kleinberg, and X.~Lan.
+\newblock Group formation in large social networks: membership, growth, and
+  evolution.
+\newblock In {\em {Proceedings of ACM International Conference on Knowledge
+  Discovery and Data mining (SIGKDD)}}, pages 44--54, 2006.
+
+\bibitem{baezayates99modern}
+R.~Baeza-Yates and B.~Ribeiro-Neto.
+\newblock {\em Modern Information Retrieval}.
+\newblock ACM Press / Addison-Wesley, 1999.
+
+\bibitem{bagrow_arxiv}
+J.~P. Bagrow and D.~Brockmann.
+\newblock {Natural emergence of clusters and bursts in network evolution}.
+\newblock {\em {arXiv:1209.3307 [physics.soc-ph]}}, 2012.
+
+\bibitem{Bakshy_quantifyInfluenceTwitter}
+E.~Bakshy, J.~M. Hofman, W.~A. Mason, and D.~J. Watts.
+\newblock {Everyone's an influencer: quantifying influence on Twitter}.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 65--74, 2011.
+
+\bibitem{Bakshy_info_diffusion}
+E.~Bakshy, I.~Rosenn, C.~Marlow, and L.~Adamic.
+\newblock The role of social networks in information diffusion.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 519--528, 2012.
+
+\bibitem{Baluja_youtube}
+S.~Baluja, R.~Seth, D.~Sivakumar, Y.~Jing, J.~Yagnik, S.~Kumar,
+  D.~Ravichandran, and M.~Aly.
+\newblock Video suggestion and discovery for youtube: taking random walks
+  through the view graph.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 895--904, 2008.
+
+\bibitem{prefattachBarabasi}
+A.-L. Barab\'asi and R.~Albert.
+\newblock Emergence of scaling in random networks.
+\newblock {\em Science}, 286(5439):509--512, October 1999.
+
+\bibitem{Battiston04_BoardDirectorNetwork}
+S.~Battiston and M.~Catanzaro.
+\newblock Statistical properties of corporate board and director networks.
+\newblock {\em {The European Physical Journal B}}, 38(2):345--352, Mar 2004.
+
+\bibitem{Becchetti_webspam_08}
+L.~Becchetti, C.~Castillo, D.~Donato, R.~Baeza-Yates, and S.~Leonardi.
+\newblock Link analysis for web spam detection.
+\newblock {\em {ACM Transactions on the Web}}, 2:2:1--2:42, Mar 2008.
+
+\bibitem{Twitter_Jan2012_465mnUsers}
+P.~Becker.
+\newblock {Twitter to hit 500 million accounts by February}.
+\newblock
+  \url{http://wallblog.co.uk/2012/01/16/twitter-to-hit-500-million-accounts-by%
+-february/}, Jan 2012.
+
+\bibitem{ben_naim_popularity}
+E.~Ben-Naim and P.~L. Krapivsky.
+\newblock {Popularity-Driven Networking}.
+\newblock {\em {Europhysics Letters}}, 97(4):48003, Feb 2012.
+
+\bibitem{Benczur_webspam}
+A.~A. Benczur, D.~Siklosi, J.~Szabo, I.~Biro, Z.~Fekete, M.~Kurucz,
+  A.~Pereszlenyi, S.~Racz, and A.~Szabo.
+\newblock Web spam: a survey with vision for the archivist.
+\newblock In {\em {Proceedings of International Web Archiving Workshop
+  (IWAW)}}, 2008.
+
+\bibitem{benevenuto_ceas10}
+F.~Benevenuto, G.~Magno, T.~Rodrigues, and V.~Almeida.
+\newblock {Detecting spammers on Twitter}.
+\newblock In {\em {Proceedings of Collaboration, Electronic Messaging,
+  Anti-Abuse and Spam Conference (CEAS)}}, 2010.
+
+\bibitem{benevenuto09@sigir}
+F.~Benevenuto, T.~Rodrigues, V.~Almeida, J.~Almeida, and M.~Gon\c{c}alves.
+\newblock Detecting spammers and content promoters in online video social
+  networks.
+\newblock In {\em {Proceedings of ACM International Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 620--627, 2009.
+
+\bibitem{Benevenuto_userBehaviorOSN}
+F.~Benevenuto, T.~Rodrigues, M.~Cha, and V.~Almeida.
+\newblock Characterizing user behavior in online social networks.
+\newblock In {\em {Proceedings of ACM SIGCOMM Conference on Internet
+  Measurement (IMC)}}, pages 49--62, 2009.
+
+\bibitem{Berkhin_PgrankSurvey}
+P.~Berkhin.
+\newblock {A Survey on PageRank Computation}.
+\newblock {\em {Internet Mathematics}}, 2(1):73--120, Sep 2005.
+
+\bibitem{Bernstein_collabio}
+M.~Bernstein, D.~Tan, G.~Smith, M.~Czerwinski, and E.~Horvitz.
+\newblock Collabio: a game for annotating people within social networks.
+\newblock In {\em {Proceedings of ACM symposium on User interface software and
+  technology (UIST)}}, 2009.
+
+\bibitem{bernstein_eddi}
+M.~S. Bernstein, B.~Suh, L.~Hong, J.~Chen, S.~Kairam, and E.~H. Chi.
+\newblock {Eddi: interactive topic-based browsing of social status streams}.
+\newblock In {\em {Proceedings of ACM symposium on User Interface Software and
+  Technology (UIST)}}, pages 303--312, 2010.
+
+\bibitem{Bharat98}
+K.~Bharat and M.~R. Henzinger.
+\newblock Improved algorithms for topic distillation in a hyperlinked
+  environment.
+\newblock In {\em {Proceedings of ACM International Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 104--111, 1998.
+
+\bibitem{bianconi-epl01}
+G.~Bianconi and A.-L. Barab\'asi.
+\newblock Competition and multiscaling in evolving networks.
+\newblock {\em {Europhysics Letters}}, 54(4):436, 2001.
+
+\bibitem{bitly_spam}
+{bitly blog - Spam and Malware Protection}.
+\newblock \url{http://blog.bit.ly/post/138381844/spam-and-malware-protection},
+  Jul 2009.
+
+\bibitem{Bonato_ILTmodel}
+A.~Bonato, N.~Hadi, P.~Horn, P.~Pralat, and C.~Want.
+\newblock Models of on-line social networks.
+\newblock {\em {Internet Mathematics}}, 6:285--313, 2011.
+
+\bibitem{bonato_wosn10}
+A.~Bonato, J.~Janssen, and P.~Pralat.
+\newblock A geometric model for on-line social networks.
+\newblock In {\em {Proceedings of Workshop on Online Social Networks (WOSN)}},
+  Jun 2010.
+
+\bibitem{botha_communityBasedModel}
+L.~Botha and S.~Kroon.
+\newblock {A Community-Based Model of Online Social Networks}.
+\newblock In {\em {Proceedings of Workshop on Social Network Analysis
+  (SNA-KDD)}}, 2010.
+
+\bibitem{Brin_Pagerank}
+S.~Brin and L.~Page.
+\newblock The anatomy of a large-scale hypertextual web search engine.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 107--117, 1998.
+
+\bibitem{broder-comnet00}
+A.~Broder, R.~Kumar, F.~Maghoul, P.~Raghavan, S.~Rajagopalan, R.~Stata,
+  A.~Tomkins, and J.~Wiener.
+\newblock {Graph structure in the Web}.
+\newblock {\em {Computer Networks}}, 33(1-6):309--320, 2000.
+
+\bibitem{Burgos_Nested}
+E.~Burgos, H.~Ceva, L.~Hern\'andez, R.~P.~J. Perazzo, M.~Devoto, and D.~Medan.
+\newblock Two classes of bipartite networks: Nested biological and social
+  systems.
+\newblock {\em Physical Review E}, 78:046113, Oct 2008.
+
+\bibitem{cai_community_sybil}
+Z.~Cai and C.~Jermaine.
+\newblock The latent community model for detecting sybils in social networks.
+\newblock In {\em {Proceedings of Network and Distributed System Security
+  Symposium (NDSS)}}, 2012.
+
+\bibitem{Caldarelli_vertex_fitness}
+G.~Caldarelli, A.~Capocci, P.~De~Los~Rios, and M.~A. Mu\~noz.
+\newblock Scale-free networks from varying vertex intrinsic fitness.
+\newblock {\em {Physical Review Letters}}, 89:258702, Dec 2002.
+
+\bibitem{neighbors}
+C.~Castillo, D.~Donato, A.~Gionis, V.~Murdock, and F.~Silvestri.
+\newblock Know your neighbors: Web spam detection using the web topology.
+\newblock In {\em {Proceedings of ACM International Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 423--430, 2007.
+
+\bibitem{Castillo_webspam}
+C.~Castillo, D.~Donato, A.~Gionis, V.~Murdock, and F.~Silvestri.
+\newblock Know your neighbors: web spam detection using the web topology.
+\newblock In {\em {Proceedings of ACM International Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 423--430, 2007.
+
+\bibitem{Castillo_InfoCredibilityTwitter_www11}
+C.~Castillo, M.~Mendoza, and B.~Poblete.
+\newblock {Information credibility on Twitter}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 675--684, 2011.
+
+\bibitem{Catanzaro_assortative}
+M.~Catanzaro, G.~Caldarelli, and L.~Pietronero.
+\newblock Assortative model for social networks.
+\newblock {\em {Physical Review E}}, 70:037101, Sep 2004.
+
+\bibitem{TwitterCriticism}
+J.~Catone.
+\newblock {Twitter's Follow Limit Makes Twitter Less Useful}.
+\newblock
+  \url{http://www.sitepoint.com/twitter-follow-limit-makes-twitter-less-useful%
+/}, Aug 2008.
+
+\bibitem{Cattuto_collaborativetagging}
+C.~Cattuto, V.~Loreto, and L.~Pietronero.
+\newblock Semiotic dynamics and collaborative tagging.
+\newblock {\em {Proceedings of the National Academy of Sciences of U.S.A.
+  (PNAS)}}, 104(5):1461--1464, 2007.
+
+\bibitem{Cattuto_Folksonomy}
+C.~Cattuto, C.~Schmitz, A.~Baldassarri, V.~D.~P. Servedio, V.~Loreto, A.~Hotho,
+  M.~Grahl, and S.~Gerd.
+\newblock Network properties of folksonomies.
+\newblock {\em {AI Communications}}, 20:245--262, Dec 2007.
+
+\bibitem{Caverlee_linkcredibility}
+J.~Caverlee and L.~Liu.
+\newblock Countering web spam with credibility-based link analysis.
+\newblock In {\em {Proceedings of ACM Symposium on Principles of Distributed
+  Computing (PODC)}}, pages 157--166, 2007.
+
+\bibitem{cha_icwsm10}
+M.~Cha, H.~Haddadi, F.~Benevenuto, and K.~P. Gummadi.
+\newblock {Measuring User Influence in Twitter: The Million Follower Fallacy}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, May 2010.
+
+\bibitem{Cha_topic_model_sigir12}
+Y.~Cha and J.~Cho.
+\newblock Social-network analysis using topic models.
+\newblock In {\em {Proceedings of ACM SIGIR conference on Research and
+  development in information retrieval}}, pages 565--574, 2012.
+
+\bibitem{Chakrabarti_DOM}
+S.~Chakrabarti.
+\newblock Integrating the document object model with hyperlinks for enhanced
+  topic distillation and information extraction.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 211--220, 2001.
+
+\bibitem{Chen_OrkutCommunities}
+W.-Y. Chen, J.-C. Chu, J.~Luan, H.~Bai, Y.~Wang, and E.~Y. Chang.
+\newblock {Collaborative filtering for Orkut communities: discovery of user
+  latent behavior}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 681--690, 2009.
+
+\bibitem{Choudhury10_PRE}
+M.~Choudhury, N.~Ganguly, A.~Maiti, A.~Mukherjee, L.~Brusch, A.~Deutsch, and
+  F.~Peruani.
+\newblock Modeling discrete combinatorial systems as alphabetic bipartite
+  networks: Theory and applications.
+\newblock {\em Physical Review E}, 81(3):036103, Mar 2010.
+
+\bibitem{limit_conjecture_1}
+J.~Chow.
+\newblock {Twitter Followers and Following Limits Explained}.
+\newblock
+  \url{http://www.johnchow.com/twitter-followers-and-following-limits-explaine%
+d/}, Apr 2009.
+
+\bibitem{Chung_PolyaUrn}
+F.~Chung, S.~Handjani, and D.~Jungreis.
+\newblock {Generalizations of Polya's Urn Problem}.
+\newblock {\em Annals of Combinatorics}, 7(2):141--153, Jul 2003.
+
+\bibitem{Clarke_RelevanceRanking}
+C.~L.~A. Clarke, G.~V. Cormack, and E.~A. Tudhope.
+\newblock Relevance ranking for one to three term queries.
+\newblock {\em {Information Processing and Management}}, 36(2):291--311, Jan
+  2000.
+
+\bibitem{Clauset2007}
+A.~Clauset, C.~R. Shalizi, and M.~E.~J. Newman.
+\newblock Power-law distributions in empirical data.
+\newblock {\em {SIAM Review}}, 51(4):661--703, 2009.
+
+\bibitem{Dahui06_ProducerConsumerNetwork}
+W.~Dahui, Z.~Li, and D.~Zengru.
+\newblock Bipartite producer--consumer networks and the size distribution of
+  firms.
+\newblock {\em {Physica A: Statistical Mechanics and its Applications}},
+  363(2):359--366, May 2006.
+
+\bibitem{Davison_nepotisticlinks}
+B.~D. Davison.
+\newblock Recognizing nepotistic links on the web.
+\newblock In {\em {Proceedings of AAAI Workshop on Artificial Intelligence for
+  Web Search}}, pages 23--28, 2000.
+
+\bibitem{price-science65}
+P.~de~Solla.
+\newblock Networks of scientific papers.
+\newblock {\em Science}, 149(3683):510--515, Jul 1965.
+
+\bibitem{Dill_SemanticAnnotation}
+S.~Dill, N.~Eiron, D.~Gibson, D.~Gruhl, R.~Guha, A.~Jhingran, T.~Kanungo,
+  S.~Rajagopalan, A.~Tomkins, J.~A. Tomlin, and J.~Y. Zien.
+\newblock {SemTag and Seeker: bootstrapping the semantic web via automated
+  semantic annotation}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 178--186, 2003.
+
+\bibitem{Dong_recency_rank_twitter}
+A.~Dong, R.~Zhang, P.~Kolari, J.~Bai, F.~Diaz, Y.~Chang, Z.~Zheng, and H.~Zha.
+\newblock {Time is of the essence: improving recency ranking using Twitter
+  data}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 331--340, 2010.
+
+\bibitem{dorogovtsev:evolution_networks}
+S.~N. Dorogovtsev and J.~F.~F. Mendes.
+\newblock {\em {Evolution of Networks: From Biological Nets to the Internet and
+  WWW}}.
+\newblock Oxford University Press, USA, 2003.
+
+\bibitem{Dorogovtsev2000_AttractivenessOfSite}
+S.~N. Dorogovtsev, J.~F.~F. Mendes, and A.~N. Samukhin.
+\newblock Structure of growing networks with preferential linking.
+\newblock {\em {Physical Review Letters}}, 85(21):4633--4636, Nov 2000.
+
+\bibitem{Douceur_SybilAttack_iptps01}
+J.~R. Douceur.
+\newblock The sybil attack.
+\newblock In {\em {Proceedings of International Workshop on Peer-to-Peer
+  Systems (IPTPS)}}, pages 251--260, 2002.
+
+\bibitem{Easley_book}
+D.~Easley and J.~Kleinberg.
+\newblock {\em {Networks, crowds and markets: Reasoning about a highly
+  connected world}}.
+\newblock {Cambridge University Press}, 2010.
+
+\bibitem{erdos59}
+P.~Erd\"{o}s and A.~R\'{e}nyi.
+\newblock On random graphs, {I}.
+\newblock {\em Publicationes Mathematicae (Debrecen)}, 6:290--297, 1959.
+
+\bibitem{erdos61}
+P.~Erdos and A.~Renyi.
+\newblock On the strength of connectedness of a random graph.
+\newblock {\em Acta Mathematica Hungarica}, 12:261--267, 1961.
+
+\bibitem{estrada_SpectralScaling}
+E.~Estrada.
+\newblock Spectral scaling and good expansion properties in complex networks.
+\newblock {\em {Europhysics Letters}}, 73(4):649, Feb 2006.
+
+\bibitem{Etzioni_knowitall}
+O.~Etzioni, M.~Cafarella, D.~Downey, S.~Kok, A.-M. Popescu, T.~Shaked,
+  S.~Soderland, D.~S. Weld, and A.~Yates.
+\newblock {Web-scale information extraction in KnowItAll (preliminary
+  results)}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 100--110, 2004.
+
+\bibitem{Evans07}
+T.~S. Evans and A.~D.~K. Plato.
+\newblock Exact solution for the time evolution of network rewiring models.
+\newblock {\em Physical Review E}, 75(5):056101, May 2007.
+
+\bibitem{FacebookCriticism}
+{Remove 5000 Friend Limit. We Need More friends}.
+\newblock
+  \url{http://www.facebook.com/pages/Remove-5000-Friend-Limit-We-Need-More-fri%
+ends/204609971019}.
+
+\bibitem{Feller_probability_book}
+W.~Feller.
+\newblock {\em {An introduction to probability theory and its applications
+  (Vol. 2, 3rd ed.)}}.
+\newblock Wiley, 1971.
+
+\bibitem{Facebook_community_arxiv}
+E.~Ferrara.
+\newblock {A Large-Scale Community Structure Analysis In Facebook}.
+\newblock {\em {arXiv:1106.2503 [cs.SI]}}, 2012.
+
+\bibitem{FollowLimits}
+Twitter help center: Following rules and best practices.
+\newblock \url{http://support.twitter.com/forums/10711/entries/68916}.
+
+\bibitem{FollowSpam}
+Twitter blog: Making progress on spam.
+\newblock \url{http://blog.twitter.com/2008/08/making-progress-on-spam.html},
+  August 2008.
+
+\bibitem{fortunato10_community}
+S.~Fortunato.
+\newblock Community detection in graphs.
+\newblock {\em {Physics Reports}}, 486(3-5):75--174, 2010.
+
+\bibitem{google_matrix_twitter_arxiv}
+K.~M. Frahm and D.~L. Shepelyansky.
+\newblock {Google matrix of Twitter}.
+\newblock {\em {arXiv:1207.3414 [cs.SI]}}, 2012.
+
+\bibitem{Gaito_burstyevolution_arxiv}
+S.~Gaito, M.~Zignani, G.~P. Rossi, A.~Sala, X.~Wang, H.~Zheng, and B.~Y. Zhao.
+\newblock {On the Bursty Evolution of Online Social Networks}.
+\newblock {\em {arXiv:1203.6744 [cs.SI]}}, 2012.
+
+\bibitem{bipartite_tcs}
+N.~Ganguly, S.~Ghosh, T.~Krueger, and A.~Srivastava.
+\newblock {Degree Distributions of Evolving Alphabetic Bipartite Networks and
+  their Projections}.
+\newblock {\em {Theoretical Computer Science}}, 2012.
+
+\bibitem{Gao_FacebookSpam_imc10}
+H.~Gao, J.~Hu, C.~Wilson, Z.~Li, Y.~Chen, and B.~Y. Zhao.
+\newblock Detecting and characterizing social spam campaigns.
+\newblock In {\em {Proceedings of ACM International Conference on Internet
+  Measurement (IMC)}}, 2010.
+
+\bibitem{Avello_TwitterSpamGraphAlgos_ceri10}
+D.~Gayo-Avello and D.~J. Brenes.
+\newblock {Overcoming Spammers in Twitter -- A Tale of Five Algorithms}.
+\newblock In {\em {Proceedings of Spanish Conference on Information Retrieval
+  (CERI)}}, 2010.
+
+\bibitem{ghosh_wosn10}
+S.~Ghosh, G.~Korlam, and N.~Ganguly.
+\newblock {The Effects of Restrictions on Number of Connections in OSNs: A
+  Case-Study on Twitter}.
+\newblock In {\em {Proceedings of Workshop on Online Social Networks (WOSN)}},
+  Jun 2010.
+
+\bibitem{ghosh_www11}
+S.~Ghosh, G.~Korlam, and N.~Ganguly.
+\newblock {Spammers' networks within online social networks: a case-study on
+  Twitter (poster)}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW) Companion}}, pages 41--42, 2011.
+
+\bibitem{cognos_sigir12}
+S.~Ghosh, N.~Sharma, F.~Benevenuto, N.~Ganguly, and K.~Gummadi.
+\newblock {Cognos: Crowdsourcing Search for Topic Experts in Microblogs}.
+\newblock In {\em {Proceedings of ACM SIGIR Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 575--590, Aug 2012.
+
+\bibitem{ghosh_networking11}
+S.~Ghosh, A.~Srivastava, and N.~Ganguly.
+\newblock {Assessing the Effects of a Soft Cut-Off in the Twitter Social
+  Network}.
+\newblock In {\em {Proceedings of IFIP / TC6 International Conference on
+  Networking}}, pages 288--300, 2011.
+
+\bibitem{Ghosh_comcom}
+S.~Ghosh, A.~Srivastava, and N.~Ganguly.
+\newblock {Effects of a soft cut-off on node-degree in the Twitter social
+  network}.
+\newblock {\em {Computer Communications}}, 35(7):784--795, 2012.
+
+\bibitem{Ghosh_linkfarming}
+S.~Ghosh, B.~Viswanath, F.~Kooti, N.~Sharma, G.~Korlam, F.~Benevenuto,
+  N.~Ganguly, and K.~Gummadi.
+\newblock {Understanding and Combating Link Farming in the Twitter Social
+  Network}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 61--70, 2012.
+
+\bibitem{girvan02_community}
+M.~Girvan and M.~E.~J. Newman.
+\newblock Community structure in social and biological networks.
+\newblock {\em {Proceedings of the National Academy of Sciences of U.S.A.
+  (PNAS)}}, 99:7821, 2002.
+
+\bibitem{Golovchinsky_TwitterSearch}
+G.~Golovchinsky and M.~Efron.
+\newblock {Making sense of Twitter Search}.
+\newblock In {\em {Proceedings of ACM CHI Workshop on Microblogging}}, 2010.
+
+\bibitem{google_policy_linkfarm}
+{Link schemes -- Google Webmaster Tools}.
+\newblock
+  \url{http://support.google.com/webmasters/bin/answer.py?hl=en&answer=66356}.
+
+\bibitem{Gouy_codon}
+M.~Gouy and C.~Gautier.
+\newblock Codon usage in bacteria: correlation with gene expressivity.
+\newblock {\em {Nucleic Acids Research}}, 10(22):7055--7074, Nov 1982.
+
+\bibitem{Grabowicz_groups_growth}
+P.~A. Grabowicz and V.~M. Eguiluz.
+\newblock Heterogeneity shapes groups growth in social online communities.
+\newblock {\em {Europhysics Letters}}, 97:28002, Jan 2012.
+
+\bibitem{Grabowicz_intermediaryties_twitter}
+P.~A. Grabowicz, J.~J. Ramasco, E.~Moro, J.~M. Pujol, and V.~M. Eguiluz.
+\newblock Social features of online networks: The strength of intermediary ties
+  in online social media.
+\newblock {\em {PLoS ONE}}, 7, Jan 2012.
+
+\bibitem{Granovetter_weakties}
+M.~S. Granovetter.
+\newblock The strength of weak ties.
+\newblock {\em {American Journal of Sociology}}, 78:1360--1380, 1973.
+
+\bibitem{Grier_ccs10}
+C.~Grier, K.~Thomas, V.~Paxson, and M.~Zhang.
+\newblock {@spam: the underground on 140 characters or less}.
+\newblock In {\em {Proceedings of ACM International Conference on Computer and
+  Communications Security (CCS)}}, pages 27--37, 2010.
+
+\bibitem{Grosky_emergent_semantics}
+W.~I. Grosky, D.~V. Sreenath, and F.~Fotouhi.
+\newblock Emergent semantics and the multimedia semantic web.
+\newblock {\em {ACM SIGMOD Record}}, 31(4):54--58, Dec 2002.
+
+\bibitem{Grujic_moviereco}
+J.~Gruji\'{c}.
+\newblock Movies recommendation networks as bipartite graphs.
+\newblock In {\em {Proceedings of International Conference on Computational
+  Science (ICCS)}}, pages 576--583. Springer-Verlag, 2008.
+
+\bibitem{Guclu2007}
+H.~Guclu and M.~Yuksel.
+\newblock Scale-free overlay topologies with hard cutoffs for unstructured
+  peer-to-peer networks.
+\newblock In {\em {Proceedings of IEEE International Conference on Distributed
+  Computing Systems (ICDCS)}}, page~32, 2007.
+
+\bibitem{Guillaume2006_bipartite}
+J.-L. Guillaume and M.~Latapy.
+\newblock Bipartite graphs as models of complex networks.
+\newblock {\em {Physica A: Statistical and Theoretical Physics}},
+  371(2):795--813, 2006.
+
+\bibitem{Guimera_teamAssembly}
+R.~Guimera, B.~Uzzi, J.~Spiro, and L.~A.~N. Amaral.
+\newblock Team assembly mechanisms determine collaboration network structure
+  and team performance.
+\newblock {\em Science}, 308:697--702, Apr 2005.
+
+\bibitem{OSN_cutoff50}
+J.~Guynn.
+\newblock Social website limits users to 50 friends.
+\newblock
+  \url{http://www.azcentral.com/news/articles/2010/11/21/20101121path-network1%
+121.html}, Nov 2010.
+
+\bibitem{Gyongyi_linkspamalliances_vldb}
+Z.~Gy\"{o}ngyi and H.~Garcia-Molina.
+\newblock Link spam alliances.
+\newblock In {\em {Proceedings of International Conference on Very Large Data
+  Bases (VLDB)}}, pages 517--528, 2005.
+
+\bibitem{Gyongyi_trustrank_vldb04}
+Z.~Gy\"{o}ngyi, H.~Garcia-Molina, and J.~Pedersen.
+\newblock Combating web spam with trustrank.
+\newblock In {\em {Proceedings of International Conference on Very Large Data
+  Bases (VLDB)}}, pages 576--587, 2004.
+
+\bibitem{Handschuh_deep}
+S.~Handschuh, S.~Staab, and R.~Volz.
+\newblock On deep annotation.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 431--438, 2003.
+
+\bibitem{Haveliwala_TSpagerank}
+T.~H. Haveliwala.
+\newblock Topic-sensitive pagerank.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 517--526, 2002.
+
+\bibitem{heflin_shoe}
+J.~Heflin and J.~Hendler.
+\newblock {Searching the web with SHOE}.
+\newblock In {\em {Proceedings of AAAI Workshop on Artificial Intelligence for
+  Web Search}}, pages 35--40, 2000.
+
+\bibitem{Heymann_fightspam_2007}
+P.~Heymann, G.~Koutrika, and H.~Garcia-Molina.
+\newblock Fighting spam on social web sites: A survey of approaches and future
+  challenges.
+\newblock {\em {IEEE Internet Computing}}, 11:36--45, 2007.
+
+\bibitem{Hill_exchangeableUrn}
+B.~M. Hill, D.~Lane, and W.~Sudderth.
+\newblock Exchangeable urn processes.
+\newblock {\em {The Annals of Probability}}, 15(4):1586--1592, Oct 1987.
+
+\bibitem{Hu_EvolutionOSN}
+H.~Hu and X.~Wang.
+\newblock Evolution of a large online social network.
+\newblock {\em {Physics Letters A}}, 373:1105--1110, 2009.
+
+\bibitem{hu09_disassortativeOSN}
+H.~Hu and X.-F. Wang.
+\newblock Disassortative mixing in online social networks.
+\newblock {\em Europhysics Letters}, 86(1):18003, 2009.
+
+\bibitem{Huang_coauthorship}
+J.~Huang, Z.~Zhuang, J.~Li, and C.~L. Giles.
+\newblock Collaboration over time: characterizing and modeling network
+  evolution.
+\newblock In {\em {ACM Conference on Web search and Web Data Mining (WSDM)}},
+  pages 107--116, 2008.
+
+\bibitem{huberman08}
+B.~A. Huberman, D.~M. Romero, and F.~Wu.
+\newblock {Social networks that matter: Twitter under the microscope}.
+\newblock {\em {First Monday}}, 14(1), Jan 2009.
+
+\bibitem{Hurlock_SeparateTweetFromChaff}
+J.~Hurlock and M.~L. Wilson.
+\newblock {Searching Twitter: Separating the Tweet from the Chaff}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, Jul 2011.
+
+\bibitem{iran.twitter}
+{US confirms it asked Twitter to stay open to help Iran protesters}, Jun 2009.
+\newblock \url{http://www.guardian.co.uk/world/2009/jun/17/obama-iran-twitter}.
+
+\bibitem{Java_whyTwitter}
+A.~Java, X.~Song, T.~Finin, and B.~Tseng.
+\newblock Why we twitter: understanding microblogging usage and communities.
+\newblock In {\em {Proceedings of WebKDD and SNA-KDD workshop on Web mining and
+  social network analysis}}, pages 56--65, 2007.
+
+\bibitem{jaworski06}
+J.~Jaworski, M.~Karonski, and D.~Stark.
+\newblock The degree of a typical vertex in generalized random intersection
+  graph models.
+\newblock {\em {Discrete Mathematics}}, 306(18):2152--2165, 2006.
+
+\bibitem{Guillaume2004_BipartiteStructureOfAllNetworks}
+G.~Jean-Loup and M.~Latapy.
+\newblock Bipartite structure of all complex networks.
+\newblock {\em {Information Processing Letters}}, 90:215--221, June 2004.
+
+\bibitem{Jin2001}
+E.~M. Jin, M.~Girvan, and M.~E.~J. Newman.
+\newblock Structure of growing social networks.
+\newblock {\em {Physical Review E}}, 64:046132, 2001.
+
+\bibitem{Johnson_UrnModelBook}
+N.~L. Johnson and S.~Kotz.
+\newblock {\em {Urn Models and Their Application: An Approach to Modern
+  Discrete Probability Theory}}.
+\newblock Wiley, 1977.
+
+\bibitem{Kairam_LifeDeathOnlineGroups}
+S.~R. Kairam, D.~J. Wang, and J.~Leskovec.
+\newblock The life and death of online groups: predicting group growth and
+  longevity.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 673--682, 2012.
+
+\bibitem{lists_tolaunch}
+N.~Kallen.
+\newblock {Twitter blog: Soon to Launch: Lists}.
+\newblock \url{http://blog.twitter.com/2009/09/soon-to-launch-lists.html}, Sep
+  2009.
+
+\bibitem{AfterJapanQuake}
+S.~Kessler.
+\newblock {Social Media Plays Vital Role in Reconnecting Japan Quake Victims
+  With Loved Ones}.
+\newblock \url{http://mashable.com/2011/03/14/internet-intact-japan/}, Mar
+  2011.
+
+\bibitem{Kim_TwitterList}
+D.~Kim, Y.~Jo, I.-C. Moon, and A.~Oh.
+\newblock {Analysis of Twitter Lists as a Potential Source for Discovering
+  Latent Characteristics of Users}.
+\newblock In {\em {Proceedings of ACM CHI Workshop on Microblogging}}, 2010.
+
+\bibitem{bipartite_hidden_variables}
+M.~Kitsak and D.~Krioukov.
+\newblock {Hidden variables in bipartite networks}.
+\newblock {\em {Physical Review E}}, 84:026114, 2011.
+
+\bibitem{Kleinberg_HITS}
+J.~M. Kleinberg.
+\newblock Authoritative sources in a hyperlinked environment.
+\newblock {\em {Journal of the ACM}}, 46(5):604--632, Sep 1999.
+
+\bibitem{Klout}
+{Klout | The Standard for Influence}.
+\newblock \url{http://klout.com/home}.
+
+\bibitem{aerodaml}
+P.~Kogut and W.~Holmes.
+\newblock {AeroDAML: Applying information extraction to generate DAML
+  annotations from web pages}.
+\newblock In {\em {Proceedings of International Conference on Knowledge Capture
+  (K-CAP)}}, 2001.
+
+\bibitem{krapivsky-pre01}
+P.~L. Krapivsky and S.~Redner.
+\newblock Organization of growing random networks.
+\newblock {\em Physical Review E}, 63(6), May 2001.
+
+\bibitem{KRRmodel}
+P.~L. Krapivsky, G.~J. Rodgers, and S.~Redner.
+\newblock Degree distributions of growing networks.
+\newblock {\em {Physical Review Letters}}, 86(23):5401--5404, Jun 2001.
+
+\bibitem{chirps}
+B.~Krishnamurthy, P.~Gill, and M.~Arlitt.
+\newblock {A Few Chirps About Twitter}.
+\newblock In {\em {Proceedings of Workshop on Online Social Networks (WOSN)}},
+  pages 19--24, 2008.
+
+\bibitem{Kumar2006}
+R.~Kumar, J.~Novak, and A.~Tomkins.
+\newblock Structure and evolution of online social networks.
+\newblock In {\em {Proceedings of ACM International Conference on Knowledge
+  Discovery and Data mining (SIGKDD)}}, pages 611--617, 2006.
+
+\bibitem{Kumar_vertexcopy}
+R.~Kumar, P.~Raghavan, S.~Rajagopalan, D.~Sivakumar, A.~Tomkins, and E.~Upfal.
+\newblock Stochastic models for the web graph.
+\newblock In {\em {Proceedings of Annual Symposium on Foundations of Computer
+  Science (FOCS)}}, pages 57--65, 2000.
+
+\bibitem{Kumar_bipartitecliques}
+R.~Kumar, P.~Raghavan, S.~Rajagopalan, and A.~Tomkins.
+\newblock Trawling the web for emerging cyber-communities.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 1481--1493, 1999.
+
+\bibitem{Kwak_unfollow}
+H.~Kwak, H.~Chun, and S.~Moon.
+\newblock {Fragile online relationship: a first look at unfollow dynamics in
+  Twitter}.
+\newblock In {\em {Proceedings of ACM Conference on Human Factors in Computing
+  Systems (CHI)}}, pages 1091--1100, 2011.
+
+\bibitem{Kwak_www10}
+H.~Kwak, C.~Lee, H.~Park, and S.~Moon.
+\newblock {What is Twitter, a social network or a news media?}
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 591--600, 2010.
+
+\bibitem{Lambiotte_music_bipartite}
+R.~Lambiotte and M.~Ausloos.
+\newblock {Uncovering collective listening habits and music genres in bipartite
+  networks}.
+\newblock {\em {Physical Review E}}, 72:066107, 2005.
+
+\bibitem{pgrank_beyond}
+A.~M. Langville and C.~D. Meyer.
+\newblock {\em {Google’s PageRank and Beyond: The Science of Search Engine
+  Rankings}}.
+\newblock Princeton University Press, 2006.
+
+\bibitem{Latapy_BipartiteNotations}
+M.~Latapy, C.~Magnien, and N.~D. Vecchio.
+\newblock Basic notions for the analysis of large two-mode networks.
+\newblock {\em {Social Networks}}, 30(1):31--48, 2008.
+
+\bibitem{Lee_Influential_InformationAdoption}
+C.~Lee, H.~Kwak, H.~Park, and S.~Moon.
+\newblock {Finding influentials based on the temporal order of information
+  adoption in Twitter}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW) Companion volume}}, pages 1137--1138, 2010.
+
+\bibitem{Lee_sigir10}
+K.~Lee, J.~Caverlee, and S.~Webb.
+\newblock {Uncovering social spammers: social honeypots + machine learning}.
+\newblock In {\em {Proceedings of ACM International Conference on Research and
+  Development in Information Retrieval (SIGIR)}}, pages 435--442, 2010.
+
+\bibitem{Lee_icwsm11}
+K.~Lee, B.~D. Eoff, and J.~Caverlee.
+\newblock {Seven Months with the Devils: A Long-Term Study of Content Polluters
+  on Twitter}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, 2011.
+
+\bibitem{Lee_warningbird}
+S.~Lee and J.~Kim.
+\newblock {WarningBird: Detecting Suspicious URLs in Twitter Stream}.
+\newblock In {\em {Proceedings of Network and Distributed System Security
+  Symposium (NDSS)}}, 2012.
+
+\bibitem{Lempel_TKC}
+R.~Lempel and S.~Moran.
+\newblock {The stochastic approach for link-structure analysis (SALSA) and the
+  TKC effect}.
+\newblock {\em {Computer Networks}}, 33:387--401, Jun 2000.
+
+\bibitem{leskovec08_osnevolution}
+J.~Leskovec, L.~Backstrom, R.~Kumar, and A.~Tomkins.
+\newblock Microscopic evolution of social networks.
+\newblock In {\em {Proceedings of ACM International Conference on Knowledge
+  Discovery and Data mining (SIGKDD)}}, pages 462--470, 2008.
+
+\bibitem{leskovec05}
+J.~Leskovec, J.~Kleinberg, and C.~Faloutsos.
+\newblock Graphs over time: densification laws, shrinking diameters and
+  possible explanations.
+\newblock In {\em {Proceedings of ACM International Conference on Knowledge
+  Discovery and Data mining (SIGKDD)}}, pages 177--187. ACM, 2005.
+
+\bibitem{limit_conjecture_4}
+{The 2000 Following Limit On Twitter -- TwittNotes}.
+\newblock
+  \url{http://twittnotes.com/2009/03/2000-following-limit-on-twitter.html}, Mar
+  2009.
+
+\bibitem{lists_howtouse}
+{Twitter Help Center: How to Use Twitter Lists}.
+\newblock
+  \url{http://support.twitter.com/articles/76460-how-to-use-twitter-lists}.
+
+\bibitem{Liu08_QueryRecommend}
+Z.~Liu and M.~Sun.
+\newblock Asymmetrical query recommendation method based on bipartite network
+  resource allocation.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 1049--1050, 2008.
+
+\bibitem{Mahmoud_PolyaUrnBook}
+H.~Mahmoud.
+\newblock {\em P{\'o}lya urn models}.
+\newblock {Chapman \& Hall / CRC Texts in Statistical Science}, 2008.
+
+\bibitem{Markines_DeliciousSpam}
+B.~Markines, C.~Cattuto, and F.~Menczer.
+\newblock Social spam detection.
+\newblock In {\em {Proceedings of International Workshop on Adversarial
+  Information Retrieval on the Web (AIRWeb)}}, 2009.
+
+\bibitem{Medo_temporal_growth}
+M.~Medo, G.~Cimini, and S.~Gualdi.
+\newblock {Temporal effects in the growth of networks}.
+\newblock {\em {Physical Review Letters}}, 107(23):238701, Dec 2011.
+
+\bibitem{meij_TweetSemantics}
+E.~Meij, W.~Weerkamp, and M.~de~Rijke.
+\newblock Adding semantics to microblog posts.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 563--572, 2012.
+
+\bibitem{Metzler_sim_short}
+D.~Metzler, S.~Dumais, and C.~Meek.
+\newblock {Similarity measures for short segments of text}.
+\newblock In {\em {Proceedings of European Conference on Information Retrieval
+  (ECIR)}}, pages 16--27, 2007.
+
+\bibitem{Michelson_topics_Twitter}
+M.~Michelson and S.~A. Macskassy.
+\newblock {Discovering users' topics of interest on Twitter: a first look}.
+\newblock In {\em {Proceedings of Workshop on Analytics for Noisy unstructured
+  text Data (AND)}}, 2010.
+
+\bibitem{FlickrGrowth}
+A.~Mislove, H.~S. Koppula, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee.
+\newblock {Growth of the Flickr social network}.
+\newblock In {\em {Proceedings of Workshop on Online Social Networks (WOSN)}},
+  pages 25--30, 2008.
+
+\bibitem{mislove07}
+A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee.
+\newblock Measurement and analysis of online social networks.
+\newblock In {\em {Proceedings of ACM SIGCOMM conference on Internet
+  Measurement (IMC)}}, pages 29--42, 2007.
+
+\bibitem{mislove-2008-ostra}
+A.~Mislove, A.~Post, P.~Druschel, and K.~P. Gummadi.
+\newblock {Ostra: Leverging trust to thwart unwanted communication}.
+\newblock In {\em {Proceedings of USENIX Symposium on Networked Systems Design
+  and Implementation (NSDI)}}, pages 15--30, {San Francisco, USA}, {April}
+  {2008}.
+
+\bibitem{mislove_thesis}
+A.~E. Mislove.
+\newblock {\em {Online Social Networks: Measurement, Analysis, and Applications
+  to Distributed Information Systems}}.
+\newblock PhD thesis, {Rice University}, April 2009.
+
+\bibitem{mitra2010}
+B.~Mitra, A.~Dubey, S.~Ghose, and N.~Ganguly.
+\newblock How do superpeer networks emerge?
+\newblock In {\em {Proceedings of IEEE International Conference on Information
+  Communications (INFOCOM)}}, pages 1514--1522, 2010.
+
+\bibitem{Mohanty_NetworkZRP}
+P.~K. Mohanty and S.~Jalan.
+\newblock Analytical results for stochastically growing networks: Connection to
+  the zero-range process.
+\newblock {\em Physical Review E}, 77:045102, Apr 2008.
+
+\bibitem{Molloy_configurationModel}
+M.~Molloy and B.~Reed.
+\newblock A critical point for random graphs with a given degree sequence.
+\newblock {\em {Random Structures and Algorithms}}, 6(2/3):161--179, Mar 1995.
+
+\bibitem{DataAnalysis}
+R.~J. Moore.
+\newblock Twitter data analysis: An investor's perspective.
+\newblock
+  \url{http://www.techcrunch.com/2009/10/05/twitter-data-analysis-an-investors%
+-perspective/}, Oct 2009.
+
+\bibitem{Mukherjee11_PhysicaA}
+A.~Mukherjee, M.~Choudhury, and N.~Ganguly.
+\newblock Understanding how both the partitions of a bipartite network affect
+  its one-mode projection.
+\newblock {\em {Physica A: Statistical Mechanics and its Applications}},
+  390(20):3602--3607, Oct 2011.
+
+\bibitem{Nacher11}
+J.~C. Nacher and T.~Akutsu.
+\newblock On the degree distribution of projected networks mapped from
+  bipartite networks.
+\newblock {\em {Physica A: Statistical Mechanics and its Applications}},
+  390(23-24):4636--4651, Nov 2011.
+
+\bibitem{narayanam_game_theory}
+R.~Narayanam and Y.~Narahari.
+\newblock {A Game Theoretic, Decentralized, Local Information based Algorithm
+  for Community Detection in Social Graphs}.
+\newblock In {\em {Proceedings of International Conference on Pattern
+  Recognition (ICPR)}}, 2012.
+
+\bibitem{newman2001}
+M.~E.~J. Newman.
+\newblock Clustering and preferential attachment in growing networks.
+\newblock {\em {Physical Review E}}, 64:025102, 2001.
+
+\bibitem{Newman_scientificcollaboration_04}
+M.~E.~J. Newman.
+\newblock Scientific collaboration networks.
+\newblock {\em Physical Review E}, 64:016131, 2001.
+
+\bibitem{Newman_ScientificCollaboration}
+M.~E.~J. Newman.
+\newblock The structure of scientific collaboration networks.
+\newblock {\em {Proceedings of the National Academy of Sciences of U.S.A.
+  (PNAS)}}, 98(2):404--409, Jan 2001.
+
+\bibitem{newman03_comnet}
+M.~E.~J. Newman.
+\newblock The structure and function of complex networks.
+\newblock {\em {SIAM Review}}, 45(2):167--256, 2003.
+
+\bibitem{newman_randomGraphsClustering}
+M.~E.~J. Newman.
+\newblock Random graphs with clustering.
+\newblock {\em {Physical Review Letters}}, 103:058701, Jul 2009.
+
+\bibitem{newman03_socialnet}
+M.~E.~J. Newman and J.~Park.
+\newblock Why social networks are different from other types of networks.
+\newblock {\em Physical Review E}, 68(3):036122, 2003.
+
+\bibitem{newman01_randomgraph}
+M.~E.~J. Newman, S.~H. Strogatz, and D.~J. Watts.
+\newblock Random graphs with arbitrary degree distributions and their
+  applications.
+\newblock {\em {Physical Review E}}, 64:026118, 2001.
+
+\bibitem{newman_random_social}
+M.~E.~J. Newman, D.~J. Watts, and S.~H. Strogatz.
+\newblock Random graph models of social networks.
+\newblock {\em {Proceedings of the National Academy of Sciences of U.S.A.
+  (PNAS)}}, 99:2566--2572, Feb 2002.
+
+\bibitem{Noh05}
+J.~D. Noh, H.-C. Jeong, Y.-Y. Ahn, and H.~Jeong.
+\newblock Growing network model for community with group structure.
+\newblock {\em Physical Review E}, 71(3):036131, Mar 2005.
+
+\bibitem{TweetMotif_icwsm10}
+B.~O'Connor, M.~Krieger, and D.~Ahn.
+\newblock {TweetMotif: Exploratory Search and Topic Summarization for Twitter}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, May 2010.
+
+\bibitem{Ohkubo_UrnNongrowingNet}
+J.~Ohkubo, M.~Yasuda, and K.~Tanaka.
+\newblock Preferential urn model and nongrowing complex networks.
+\newblock {\em Physical Review E}, 72:065104, Dec 2005.
+
+\bibitem{OSNchallenges}
+J.~Owyang.
+\newblock The many challenges of social network sites.
+\newblock
+  \url{http://www.web-strategist.com/blog/2008/02/11/the-many-challenges-of-so%
+cial-networks/}, Feb 2008.
+
+\bibitem{Pal_TopicalAuthorityTwitter}
+A.~Pal and S.~Counts.
+\newblock Identifying topical authorities in microblogs.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 45--54, 2011.
+
+\bibitem{Google_Bing_OSN}
+I.~Paul.
+\newblock {Google's Real-Time Search Ready to Challenge Bing -- PCWorld}.
+\newblock
+  \url{http://www.pcworld.com/article/183984/googles_realtime_search_ready_to_%
+challenge_bing.html}, Dec 2009.
+
+\bibitem{Peruani07}
+F.~Peruani, M.~Choudhury, A.~Mukherjee, and N.~Ganguly.
+\newblock Emergence of a non-scaling degree distribution in bipartite networks:
+  A numerical and analytical study.
+\newblock {\em Europhysics Letters}, 79(2):28001, Jul 2007.
+
+\bibitem{Ravali_TwitterList_enir}
+R.~Pochampally and V.~Varma.
+\newblock {User context as a source of topic retrieval in Twitter}.
+\newblock In {\em {Proceedings of Workshop on Enriching Information Retrieval
+  (with ACM SIGIR)}}, Jul 2011.
+
+\bibitem{podobnik_arxiv}
+B.~Podobnik, D.~Horvatic, M.~Dickison, and H.~E. Stanley.
+\newblock {Preferential Attachment in the Interaction between Dynamically
+  Generated Interdependent Networks}.
+\newblock {\em {arXiv:1209.2817 [physics.soc-ph]}}, 2012.
+
+\bibitem{Pujol_scalingOSNs}
+J.~M. Pujol, V.~Erramilli, G.~Siganos, X.~Yang, N.~Laoutaris, P.~Chhabra, and
+  P.~Rodriguez.
+\newblock The little engine(s) that could: scaling online social networks.
+\newblock In {\em {Proceedings of the ACM SIGCOMM International Conference}},
+  pages 375--386, 2010.
+
+\bibitem{Rahman_socware}
+M.~S. Rahman, T.-K. Huang, H.~V. Madhyastha, and M.~Faloutsos.
+\newblock {Efficient and Scalable Socware Detection in Online Social Networks}.
+\newblock In {\em {Proceedings of USENIX Security Symposium}}, 2012.
+
+\bibitem{Ramachandran_NetworkBehaviorSpam_ccr}
+A.~Ramachandran and N.~Feamster.
+\newblock {Understanding the network-level behavior of spammers}.
+\newblock {\em {SIGCOMM Computer Communication Review}}, 36:291--302, Aug 2006.
+
+\bibitem{Ramage_TweetTopicModel}
+D.~Ramage, S.~Dumais, and D.~Liebling.
+\newblock {Characterizing Microblogs with Topic Models}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, 2010.
+
+\bibitem{Ramasco04}
+J.~J. Ramasco, S.~N. Dorogovtsev, and R.~Pastor-Satorras.
+\newblock Self-organization of collaboration networks.
+\newblock {\em {Physical Review E}}, 70(3):036106, Sep 2004.
+
+\bibitem{Ramasco06_SocialInertia}
+J.~J. Ramasco and S.~A. Morris.
+\newblock Social inertia in collaboration networks.
+\newblock {\em Physical Review E}, 73(1):016122, Jan 2006.
+
+\bibitem{ranking-sports}
+{Ranking sports' popularity: And the silver goes to ... -- the Economist}.
+\newblock \url{http://tinyurl.com/7zvcfa7}.
+
+\bibitem{RateLimiting}
+{Rate Limiting -- Twitter Developers}.
+\newblock \url{https://dev.twitter.com/docs/rate-limiting}.
+
+\bibitem{Roberts_downweight}
+G.~Roberts and J.~Rosenthal.
+\newblock Downweighting tightly knit communities in world wide web rankings.
+\newblock {\em Advances and Applications in Statistics (ADAS)}, 3:199--216,
+  2003.
+
+\bibitem{Rodrigues_wordofmouth}
+T.~Rodrigues, F.~Benevenuto, M.~Cha, K.~Gummadi, and V.~Almeida.
+\newblock On word-of-mouth based discovery of the web.
+\newblock In {\em {Proceedings of ACM SIGCOMM Conference on Internet
+  Measurement (IMC)}}, pages 381--396, 2011.
+
+\bibitem{Romero_influencePassivity}
+D.~M. Romero, W.~Galuba, S.~Asur, and B.~A. Huberman.
+\newblock {Influence and passivity in social media}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW) Companion volume}}, pages 113--114, 2011.
+
+\bibitem{romero_directed_closure}
+D.~M. Romero and J.~M. Kleinberg.
+\newblock {The Directed Closure Process in Hybrid Social-Information Networks,
+  with an Analysis of Link Formation on Twitter}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, May 2010.
+
+\bibitem{Ruiz_financialTimeSeries}
+E.~J. Ruiz, V.~Hristidis, C.~Castillo, A.~Gionis, and A.~Jaimes.
+\newblock Correlating financial time series with micro-blogging activity.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 513--522, 2012.
+
+\bibitem{Saavedra09}
+S.~S., R.-T. F., and U.~B.
+\newblock A simple model of bipartite cooperation for ecological and
+  organizational networks.
+\newblock {\em Nature}, 457(7228):463, Jan 2009.
+
+\bibitem{earthquake-twitter@www2010}
+T.~Sakaki, M.~Okazaki, and Y.~Matsuo.
+\newblock Earthquake shakes twitter users: real-time event detection by social
+  sensors.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 851--860, 2010.
+
+\bibitem{saramaki04}
+J.~Saramaki and K.~Kaski.
+\newblock Scale-free networks generated by random walkers.
+\newblock {\em {Physica A: Statistical Mechanics and its Applications}},
+  341:80--86, October 2004.
+
+\bibitem{Sen09_TagRecommendation}
+S.~Sen, J.~Vig, and J.~Riedl.
+\newblock {Tagommenders: connecting users to items through tags}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 671--680, 2009.
+
+\bibitem{seth_thesis}
+A.~Seth.
+\newblock {\em {Design of a Recommendation System for Participatory Media Using
+  Social Networks}}.
+\newblock PhD thesis, {University of Waterloo}, 2008.
+
+\bibitem{shang_web_based_bin}
+M.~Shang, L.~Lu, Y.-C. Zhang, and T.~Zhou.
+\newblock {Empirical analysis of web-based user-object bipartite networks}.
+\newblock {\em {Europhysics Letters}}, 90:48006, 2010.
+
+\bibitem{whoiswho_wosn12}
+N.~Sharma, S.~Ghosh, F.~Benevenuto, N.~Ganguly, and K.~Gummadi.
+\newblock {Inferring Who-is-Who in the Twitter Social Network}.
+\newblock In {\em {Proceedings of ACM Workshop on Online Social Networks
+  (WOSN)}}, pages 55--60, Aug 2012.
+
+\bibitem{Shin_ForumSpam_infocom11}
+Y.~Shin, M.~Gupta, and S.~Myers.
+\newblock {Prevalence and Mitigation of Forum Spamming}.
+\newblock In {\em {Proceedings of IEEE International Conference on Computer
+  Communications (INFOCOM)}}, pages 2309--2317, 2011.
+
+\bibitem{simon55}
+H.~A. Simon.
+\newblock On a class of skew distribution functions.
+\newblock {\em Biometrika}, 42:425--440, 1955.
+
+\bibitem{singer_coevolution}
+P.~Singer, C.~Wagner, and M.~Strohmaier.
+\newblock {Understanding co-evolution of social and content networks on
+  Twitter}.
+\newblock In {\em {Proceedings of Workshop on Making Sense of Microposts (with
+  ACM WWW)}}, 2012.
+
+\bibitem{Badrank2}
+M.~Sobek.
+\newblock {Google PageRank - PR 0}.
+\newblock \url{http://pr.efactory.de/e-pr0.shtml}, 2003.
+
+\bibitem{Spirin_webSpamSurvey}
+N.~Spirin and J.~Han.
+\newblock Survey on web spam detection: principles and algorithms.
+\newblock {\em {SIGKDD Explorations}}, 13(2):50--64, Dec 2011.
+
+\bibitem{staab_onto}
+S.~Staab, A.~Maedche, and S.~Handschuh.
+\newblock {An annotation framework for the semantic web}.
+\newblock In {\em {Proceedings of Workshop on Multimedia Annotation}}, pages
+  30--31, 2001.
+
+\bibitem{twitter_improves_wtf_sullivan}
+D.~Sullivan.
+\newblock {Twitter Improves ``Who To Follow'' Results \& Gains Advanced Search
+  Page}.
+\newblock \url{http://selnd.com/wtfdesc}.
+
+\bibitem{GoogleRanksTweets}
+D.~Talbot.
+\newblock {How Google Ranks Tweets}.
+\newblock \url{http://www.technologyreview.in/web/24353/}, Jan 2010.
+
+\bibitem{Teevan_TwitterSearch}
+J.~Teevan, D.~Ramage, and M.~R. Morris.
+\newblock {\#TwitterSearch: a comparison of microblog search and web search}.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 35--44, 2011.
+
+\bibitem{Gong_NetworkStructureContentCoevolution}
+C.-Y. Teng, L.~Gong, A.~Livne, C.~Brunetti, and L.~A. Adamic.
+\newblock Coevolution of network structure and content.
+\newblock {\em {arXiv:1107.5543 [cs.SI]}}, 2011.
+
+\bibitem{Thomas_Monarch}
+K.~Thomas, C.~Grier, J.~Ma, V.~Paxson, and D.~Song.
+\newblock {Design and Evaluation of a Real-Time URL Spam Filtering Service}.
+\newblock In {\em {Proceedings of IEEE Symposium on Security and Privacy}},
+  2011.
+
+\bibitem{thomas11_TwitterSuspended}
+K.~Thomas, C.~Grier, V.~Paxson, and D.~Song.
+\newblock {Suspended Accounts In Retrospect: An Analysis of Twitter Spam}.
+\newblock In {\em {Proceedings of ACM SIGCOMM Conference on Internet
+  Measurement (IMC)}}, pages 243--258, 2011.
+
+\bibitem{blogspam}
+A.~Thomason.
+\newblock Blog spam: A review.
+\newblock In {\em {Proceedings of Conference on Email and Anti-Spam (CEAS)}},
+  2007.
+
+\bibitem{Milgram1969}
+J.~Travers and S.~Milgram.
+\newblock An experimental study of the small world problem.
+\newblock {\em Sociometry}, 32:425--443, 1969.
+
+\bibitem{Tripathy_content_distribution}
+R.~M. Tripathy, S.~Triukose, S.~Ardon, A.~Bagchi, and A.~Seth.
+\newblock {Towards the use of online social networks for efficient Internet
+  content distribution}.
+\newblock In {\em {Proceedings of IEEE International Conference on Advanced
+  Networks and Telecommunication Systems (ANTS)}}, pages 1--6, 2011.
+
+\bibitem{Tumasjan_icwsm10}
+A.~Tumasjan, T.~O. Sprenger, P.~G. Sandner, and I.~M. Welpe.
+\newblock {Predicting elections with Twitter: What 140 characters reveal about
+  political sentiment}.
+\newblock In {\em {Proceedings of AAAI International Conference on Weblogs and
+  Social Media (ICWSM)}}, May 2010.
+
+\bibitem{twitter-wtf}
+{Twitter: Who to Follow}.
+\newblock \url{http://twitter.com/who_to_follow}.
+
+\bibitem{TwitterAPI}
+{Twitter Developers}.
+\newblock \url{https://dev.twitter.com/}.
+
+\bibitem{TwitterIranElection}
+{Twitter Tells Tale Of Iran Election -- CBS News}.
+\newblock \url{http://www.cbsnews.com/2100-205_162-5090788.html}, Jun 2009.
+
+\bibitem{twitter.recent.nurl}
+{Twitter Seeing 90 Million Tweets Per Day, 25 Percent Contain Links --
+  TechCrunch}.
+\newblock
+  \url{http://techcrunch.com/2010/09/14/twitter-seeing-90-million-tweets-per-d%
+ay/}, Sep 2010.
+
+\bibitem{TwitterRules}
+{Twitter help center: The Twitter rules}.
+\newblock \url{http://support.twitter.com/forums/26257/entries/18311}, 2011.
+
+\bibitem{Ugander_Facebook}
+J.~Ugander, B.~Karrer, L.~Backstrom, and C.~Marlow.
+\newblock {The anatomy of the Facebook social graph}.
+\newblock {\em {arXiv:1111.4503 [cs.SI]}}, 2011.
+
+\bibitem{bimal-2010-sybil}
+B.~Viswanath, A.~Post, K.~Gummadi, and A.~Mislove.
+\newblock An analysis of social network-based sybil defenses.
+\newblock In {\em {Proceedings of ACM SIGCOMM Conference on Data
+  Communication}}, pages 363--374, 2010.
+
+\bibitem{wagner_topic_expertise}
+C.~Wagner, V.~Liao, P.~Pirolli, L.~Nelson, and M.~Strohmaier.
+\newblock {It's not in their tweets: Modeling topical expertise of Twitter
+  users}.
+\newblock In {\em {Proceedings of AASE / IEEE International Conference on
+  Social Computing (SocialCom)}}, 2012.
+
+\bibitem{Wang_secrypt10}
+A.~H. Wang.
+\newblock {Don't follow me: Spam detection in Twitter}.
+\newblock In {\em {Proceedings of IEEE International Conference on Security and
+  Cryptography (SECRYPT)}}, pages 1--10, 2010.
+
+\bibitem{Wang_overlapping}
+X.~Wang, L.~Tang, H.~Gao, and H.~Liu.
+\newblock Discovering overlapping groups in social media.
+\newblock In {\em {Proceedings of IEEE International Conference on Data Mining
+  (ICDM)}}, pages 569--578, 2010.
+
+\bibitem{watts98_smallworld}
+D.~J. Watts and S.~H. Strogatz.
+\newblock Collective dynamics of /`small-world/' networks.
+\newblock {\em Nature}, 393(6684):440--442, Jun 1998.
+
+\bibitem{Welch_LinkSemantics}
+M.~J. Welch, U.~Schonfeld, D.~He, and J.~Cho.
+\newblock {Topical semantics of Twitter links}.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 327--336, 2011.
+
+\bibitem{twitterRank_wsdm10}
+J.~Weng, E.-P. Lim, J.~Jiang, and Q.~He.
+\newblock Twitterrank: finding topic-sensitive influential twitterers.
+\newblock In {\em {Proceedings of ACM International Conference on Web Search
+  and Data Mining (WSDM)}}, pages 261--270, 2010.
+
+\bibitem{Wu_linkfarm_www05}
+B.~Wu and B.~D. Davison.
+\newblock {Identifying link farm spam pages}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 820--829, 2005.
+
+\bibitem{Wu_propagateTrustDistrust}
+B.~Wu, V.~Goel, and B.~D. Davison.
+\newblock Propagating trust and distrust to demote web spam.
+\newblock In {\em {Proceedings of Workshop on Models of Trust for the Web}},
+  2006.
+
+\bibitem{wu_info_flow_social_groups}
+F.~Wu, B.~Huberman, L.~A. Adamic, and J.~R. Tyler.
+\newblock Information flow in social groups.
+\newblock {\em {Physica A: Statistical Mechanics and its Applications}},
+  337:327--335, Jun 2004.
+
+\bibitem{Wu_who_says_what_to_whom}
+S.~Wu, J.~M. Hofman, W.~A. Mason, and D.~J. Watts.
+\newblock {Who says what to whom on Twitter}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 705--714, 2011.
+
+\bibitem{Wu_SocialAnnotation}
+X.~Wu, L.~Zhang, and Y.~Yu.
+\newblock Exploring social annotations for the semantic web.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 417--426, 2006.
+
+\bibitem{Xie_EmailSpam_sigcomm08}
+Y.~Xie, F.~Yu, K.~Achan, R.~Panigrahy, G.~Hulten, and I.~Osipkov.
+\newblock {Spamming botnets: signatures and characteristics}.
+\newblock In {\em {Proceedings of ACM International Conference on Data
+  communication (SIGCOMM)}}, pages 171--182, 2008.
+
+\bibitem{Xu_mutual_selection}
+X.-J. Xu, L.-M. Zhang, and L.-J. Zhang.
+\newblock {Mutual selection in network evolution: the role of the intrinsic
+  fitness}.
+\newblock {\em {International Journal of Modern Physics C}}, 21(01), Jan 2010.
+
+\bibitem{Yang_spammers_networks}
+C.~Yang, R.~Harkreader, J.~Zhang, S.~Shin, and G.~Gu.
+\newblock {Analyzing spammers' social networks for fun and profit: a case study
+  of cyber criminal ecosystem on Twitter}.
+\newblock In {\em {Proceedings of ACM International Conference on World Wide
+  Web (WWW)}}, pages 71--80, 2012.
+
+\bibitem{Yardi_FirstMonday10}
+S.~Yardi, D.~Romero, G.~Schoenebeck, and D.~M. Boyd.
+\newblock Detecting spam in a twitter network.
+\newblock {\em {First Monday}}, 15(1):1--13, Jan 2010.
+
+\bibitem{Zhang_pam10}
+C.~M. Zhang and V.~Paxson.
+\newblock {Detecting and Analyzing Automated Activity on Twitter}.
+\newblock In {\em {Proceedings of International Conference on Passive and
+  Active Measurement (PAM)}}, pages 102--111, 2011.
+
+\bibitem{zhang_arxiv}
+C.-X. Zhang and Z.-K. Zhang.
+\newblock {An Evolving model of online bipartite networks}.
+\newblock {\em {arXiv:1209.6217 [physics.soc-ph]}}, 2012.
+
+\bibitem{zheleva_coevolution}
+E.~Zheleva, H.~Sharara, and L.~Getoor.
+\newblock Co-evolution of social and affiliation networks.
+\newblock In {\em {Proceedings of ACM International Conference on Knowledge
+  Discovery and Data mining (SIGKDD)}}, pages 1007--1016, 2009.
+
+\bibitem{zhou_projection}
+T.~Zhou, J.~Ren, M.~Medo, and Y.-C. Zhang.
+\newblock How to project a bipartite network?
+\newblock {\em {Physical Review E}}, 76:046115, 2007.
+
+\end{thebibliography}

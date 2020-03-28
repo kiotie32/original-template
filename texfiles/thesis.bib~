@@ -1,0 +1,1057 @@
+@article{Ngaia2008,
+  author        = {E. W. T. Ngaia and K. L. M. Karen and J. R. Frederick and Y. Y. Candace},
+  title         = {{RFID} research: An academic literature review (1995--2005) and future research directions},
+  journal       = {Journal of Production Economics},
+  volume        = "112",
+  number        = "2",
+  month         = "April",
+  year          = {2008},
+  pages         = "510--520"
+}
+
+@BOOK{Zhangkitsos2009,
+  author        = {Y. Zhang and P. Kitsos},
+  title         = {Security in {RFID} and Sensor Networks},
+  publisher     = "CRC Press",
+  year          = {2009}
+}
+
+@article{multitag2007,
+  author        = {L. Bolotnyy and G. Robins},
+  title         = {Multi-Tag {RFID} Systems},
+  journal       = {Journal of Internet Protocol Technology (IJIPT), Special issue on ”RFID: Technologies, Applications, and Trends”},
+  volume        = "2",
+  number        = "3/4",
+  year          = {2007},
+  pages         = "218--231"
+}
+
+@INPROCEEDINGS{wies2004,
+    author = "S. A. Weis and S. Sarma and R. L. Rivest and D. W. Engels",
+    title =  "Security and Privacy Aspects of Low-Cost Radio Frequency Identification Systems",
+    booktitle = "Proceedings of the First Security in Pervasive Computing",
+    pages = "201--212",
+    year = "2004"}
+
+@INPROCEEDINGS{Tsudik2006,
+    author = "G. Tsudik",
+    title =  "{YA-TRAP}: Yet Another Trivial {RFID} Authentication Protocol",
+    booktitle = "Proceedings of the Fourth Annual IEEE International Conference on Pervasive Computing and Communications Workshops",
+    pages = "640--643",
+    year = "2006"}
+
+@INPROCEEDINGS{Burmester2006,
+    author = "M. Burmester and T. V. Le and B. D. Medeiros",
+    title =  "Provably secure ubiquitous systems: Universally composable {RFID} authentication protocols",
+    booktitle = "Proceedings of WiCOM",
+    pages = "1--9",
+    year = "2006"}
+
+@INPROCEEDINGS{Tsudik2007,
+    author = "G. Tsudik",
+    title =  "A family of dunces: Trivial {RFID} identification and authentication protocols",
+    booktitle = "Proceedings of Privacy Enhancing Technologies Symposium",
+    pages = "45--61",
+    year = "2007"}
+    
+@INPROCEEDINGS{conti2007,
+        author = "M. Conti and R. D. Pietro and L. V. Mancini",
+        title =  "{RIPP-FS}: an {RFID} Identification, Privacy Preserving Protocol with Forward Secrecy",
+        booktitle = "Proceedings of PerCom'07",
+        pages = "229--234",
+        year = "2007"}
+
+@INPROCEEDINGS{tan2007,
+    author = "C. Tan and B. Sheng and Q. Li",
+    title =  "Serverless Search and Authentication Protocols for {RFID}",
+    booktitle = "Proceedings of the Fifth Anual IEEE International Conferance on Pervasive Computing and Communication",
+    pages = "3--12",
+    year = "2007"}
+
+@INPROCEEDINGS{zhang2008,
+    author = "Y. Zhang and D. Li and Z. Zhu",
+    title =  "An Efficient {RFID} Tag-Reader Mutual Authentication Scheme",
+    booktitle = "Proceedings of WiCOM",
+    pages = "1--4",
+    year = "2008"}
+
+@INPROCEEDINGS{song2008,
+    author = "B. Song and J. Mitchell",
+    title =  "{RFID} Authentication Protocol for Low-cost Tags",
+    booktitle = "Proceedings of the First ACM Conference on Wireless Network Security",
+    pages = "140--147",
+    year = "2008"}
+    
+
+@article{Rizomiliotis2009,
+  author        = {P. Rizomiliotis and E. Rekleitis and S. Gritzalis},
+  title         = {Security Analysis of the {Song-Mitchell} Authentication Protocol for Low-cost {RFID} Tags},
+  journal       = {IEEE Communications Letters},
+  volume        = "13",
+  number        = "4",
+  month         = "",
+  year			= "2009"
+  pages         = "274--276"
+}
+
+@INPROCEEDINGS{HB2001,
+    author = "N. J. Hopper and M. Blum",
+    title =  "Secure Human Identification Protocols",
+    booktitle = "Proceedings of the 7th International Conference on the Theory and Application of Cryptology and Information Security",
+    pages = "9--13",
+    month = "December",
+    year = "2001"}
+
+@INPROCEEDINGS{HBP2005,
+    author = "A. Juels and S. A. Weis",
+    title =  "Authenticating Pervasive Devices with Human Protocols",
+    booktitle = "Proceedings of the 25th Annual International Cryptology Conference",
+    pages = "293--308",
+    month = "August",
+    year = "2005"}
+
+@INPROCEEDINGS{HBPP2006,
+    author = "J. Bringer and H. Chabanne and E. Dottax",
+    title =  "{HB++}: a Lightweight Authentication Protocol Secure against Some Attacks",
+    booktitle = "Proceedings of the Second international workshop in Security, Privacy and Trust in Pervasive and Ubiquitous Computing",
+    pages = "28--33",
+    month = "June",
+    year = "2006"}
+
+@Unpublished{Gilbert2005,
+author = {H. ~Gilbert and M. Robshaw and H. Sibert},
+title = {An Active Attack Against {HB+} - A Provably Secure Lightweight Protocol},
+note = {Cryptology ePrint Archive, Report 2005/237, http://eprint.iacr.org},
+year = {2005},
+}
+
+
+@INPROCEEDINGS{Piramuthu2006,
+    author = "S. Piramuthu",
+    title =  "{HB} and Related Lightweight Authentication Protocols for Secure {RFID} Tag/Reader Authentication",
+    booktitle = "Proceedings of CollECTeR Europe Conference",
+    pages = "9--10",
+    month = "June",
+    year = "2006"}
+
+@INPROCEEDINGS{sindhu2005,
+    author = "S. Karthikeyan and M. Nesterenko",
+    title =  "{RFID} Security Without Extensive Cryptography",
+    booktitle = "Proceedings of the 3rd ACM Workshop on Security of Adhoc and Sensor Networks",
+    pages = "63--67",
+    year = "2005"}
+
+@INPROCEEDINGS{chienandchen2007,
+    author = "H. Y. Chien and C. W. Huang",
+    title =  "A Lightweight {RFID} Protocol Using Substring",
+    booktitle = "Proceedings of the International Conference, EUC 2007",
+    pages = "422--431",
+    month = "December",
+    year = "2007"}
+
+@INPROCEEDINGS{Lietal2006,
+    author = "Y. Z. Li and Y. B. Cho and N. K. Um and S. H. Lee",
+    title =  "Security and Privacy on Authentication Protocol for Low-cost {RFID}",
+    booktitle = "Proceedings of the International Conference on Computational Intelligence and Security",
+    pages = "1101--1104",
+    month = "November",
+    year = "2006"}
+
+@INPROCEEDINGS{He2009,
+    author = "H. Lei and G. Yong and C. Zeng-yu and L. Na-na",
+    title =  "An Improved Lightweight {RFID} Protocol Using Substring",
+    booktitle = "Proceedings of the 5th International Conference on Wireless Communications, Networking and Mobile Computing",
+    pages = "1--4",
+    year = "2009"}
+
+@article{Khor2010,
+  author        = {K. J. ~Huey and W. Ismail and M. G. Rahman and I. Younis and M. K. Sulaiman},
+  title         = {Security Problems in an {RFID} System},
+  journal       = {Journal of Wireless Personal Communications, Special issue on {RFID}},
+  volume        = "",
+  number        = "",
+  month         = "",
+  year          = {2010},
+  pages         = "1--10"
+}
+
+@INPROCEEDINGS{Lars2010,
+    author = "L Kulseng and Z. Yu and Y. Wei and Y. Guan",
+    title =  "Lightweight Mutual Authentication and Ownership Transfer for {RFID} Systems",
+    booktitle = "Proceedings of the 30th International Conference on Computer Communications",
+    pages = "251--255",
+    month = "",
+    year = "2010"}
+
+@INPROCEEDINGS{duc2006,
+    author = "D. N. Duc and J. Park and H. Lee and K. Kim",
+    title =  "Enhancing security of {EPCglobal GEN-2 RFID} tag against traceability and cloning",
+    booktitle = "Proceedings of the 2006 Symposium on Cryptography and Information Security",
+    pages = "--",
+    month = "",
+    year = "2006"}
+
+@article{chienchen2007,
+  author        = {H. Y. Chien and C. H. Chen.},
+  title         = {Mutual authentication protocol for {RFID} conforming to {EPC} class 1 generation 2 standards},
+  journal       = {Journal of Computer Standards and Interfaces},
+  volume        = "29",
+  number        = "2",
+  month         = "",
+  year          = {2007},
+  pages         = "254--259"
+}
+
+@article{Tzu2010,
+  author        = {T. C. Yeh and Y. J. Wang and T. C. Kuo and S. S. Wang},
+  title         = {Securing {RFID} systems conforming to {EPC} Class 1 Generation 2 standard},
+  journal       = {Journal of Expert Systems with Applications},
+  volume        = "37",
+  number        = "12",
+  month         = "",
+  year          = {2010},
+  pages         = "7678--7683"
+}
+
+@article{Hoque2010,
+  author        = {M. E. Hoque and F. Rahman and S. I. Ahamed and J. H. Park},
+  title         = {Enhancing Privacy and Security of {RFID} System with Serverless Authentication and Search Protocols in Pervasive Environments},
+  journal       = {Journal of Wireless Personal Communications},
+  volume        = "55",
+  number        = "1",
+  month         = "September",
+  year          = {2010},
+  pages         = "65--79"
+}
+
+@INPROCEEDINGS{Hyung2010,
+    author = "H. J. Kim and M. S. Jun",
+    title =  "Light-Weight Mutual Authentication {RFID} Protocol for Multi-Tags conforming to {EPC} Class-1 Generation-2 Standards",
+    booktitle = "Proceedings of the 5th International Conference on Computer Sciences and Convergence Information Technology",
+    pages = "34--39",
+    month = "November",
+    year = "2010"}
+
+@INPROCEEDINGS{schnorr1989,
+    author = "C. P. Schnorr",
+    title =  "Efficient Identification and Signatures for Smart Cards",
+    booktitle = "Proceedings of the Workshop on the Theory and Application of Cryptographic Techniques",
+    pages = "688--689",
+    month = "April",
+    year = "1989"}
+
+@INPROCEEDINGS{okamoto1992,
+    author = "T. Okamoto",
+    title =  "Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes",
+    booktitle = "Proceedings of the 12th Annual International Cryptology Conference",
+    pages = "31--53",
+    month = "August",
+    year = "1992"}
+
+@INPROCEEDINGS{batina2007,
+    author = "L. Batina and J. Guajardo and T. Kerins and N. Mentens and P. Tuyls and I. Verbauwhede",
+    title =  "Public-Key Cryptography for {RFID}-Tags",
+    booktitle = "Proceedings of the Fifth Annual IEEE International Conference on Pervasive Computing and Communications Workshops",
+    pages = "217--222",
+    month = "March",
+    year = "2007"}
+
+
+@INPROCEEDINGS{Leeetal.2008,
+    author = "Y. K. Lee and L. Batina and I. Verbauwhede",
+    title =  "{EC-RAC (ECDLP Based Randomized Access Control)}: Provably Secure {RFID} authentication protocol",
+    booktitle = "Proceedings of the IEEE International Conference on RFID",
+    pages = "97--104",
+    month = "April",
+    year = "2008"}
+
+@Unpublished{Deursen2008,
+author = {T. Deursen and S. Radomirovic},
+title = {Attacks on {RFID} Protocols},
+note = {Cryptology ePrint Archive, Report 2008/310, http://eprint.iacr.org},
+year = {2008},
+}
+
+@INPROCEEDINGS{Bringer2008,
+    author = "J. Bringer and H. Chabannel and T. Icart",
+    title =  "Cryptanalysis of {EC-RAC}, a {RFID} Identification Protocol",
+    booktitle = "Proceedings of the 7th International Conference on Cryptology and Network Security",
+    pages = "149--161",
+    month = "December",
+    year = "2008"}
+
+@INPROCEEDINGS{Leeetal.2009,
+    author = "Y. K. Lee and L. Batina and I. Verbauwhede",
+    title =  "Untraceable {RFID} Authentication Protocols:Revision of {EC-RAC}",
+    booktitle = "Proceedings of the IEEE International Conference on RFID",
+    pages = "178--185",
+    month = "April",
+    year = "2009"}
+
+@Unpublished{Deursen2009,
+author = {T. Deursen and S. Radomirovic},
+title = {Untraceable {RFID} Protocols are not trivially composable: Attacks on the revision of {EC-RAC}},
+note = {Cryptology ePrint Archive, Report 2009/332, http://eprint.iacr.org},
+year = {2009},
+}
+
+@INPROCEEDINGS{Leeetal.2010,
+    author = "Y. K. Lee and L. Batina and D. Singelee and I. Verbauwhede",
+    title =  "Low-cost untraceable authentication protocols for {RFID}",
+    booktitle = "Proceedings of the third ACM conference on Wireless network security",
+    pages = "55--64",
+    month = "March",
+    year = "2010"}
+
+@INPROCEEDINGS{Gyozo2010,
+    author = "G. Goodor and P. Szendi and S. Imre",
+    title =  "Elliptic curve cryptography based authentication protocol for small computational capacity {RFID} systems",
+    booktitle = "Proceedings of the 6th ACM workshop on QoS and security for wireless and mobile networks",
+    pages = "98--105",
+    month = "October",
+    year = "2010"}
+
+@article{GuoRui2012,
+  author        = {G. R. Li and Y. Wang and C. R. Wang and J. S. He},
+  title         = {{EMAP}: An Efficient Mutual Authentication Protocol for Passive {RFID} Tags},
+  journal       = {Journal of Automation and Computing},
+  volume        = "9",
+  number        = "1",
+  month         = "February",
+  year          = {2012},
+  pages         = "108--112"
+}
+
+@INPROCEEDINGS{Yi-Pin2013,
+    author = "Y. P. Liao and C. M. Hsiao",
+    title =  "A Secure {ECC}-Based {RFID} Authentication Scheme Using Hybrid Protocols",
+    booktitle = "Proceedings of the International Computer Symposium",
+    pages = "1--13",
+    month = "December",
+    year = "2013"}
+
+@INPROCEEDINGS{Manik2013,
+    author = "M. L. Das",
+    title =  "Strong Security and Privacy of {RFID} System for Internet of Things Infrastructure",
+    booktitle = "Proceedings of the third International Conference on SPACE",
+    pages = "56--69",
+    month = "October",
+    year = "2013"}
+
+@article{Yi-Pin2014,
+  author        = {Y. P. Liao and C. M. Hsiao},
+  title         = {A secure {ECC}-based {RFID} authentication scheme integrated with {ID}-verifier transfer protocol},
+  journal       = {Journal of Ad Hoc Networks},
+  volume        = "18",
+  number        = "",
+  month         = "July",
+  year          = {2014},
+  pages         = "133--146"
+}
+
+@article{Tanos2008,
+  author        = {C. C. Tan and B. Sheng and Q. Li},
+  title         = {Secure and Serverless {RFID} Authentication and Search Protocols},
+  journal       = {IEEE Transactions on Wireless Communications},
+  volume        = "7",
+  number        = "4",
+  month         = "April",
+  year          = {2008},
+  pages         = "1400--1407"
+}
+
+@INPROCEEDINGS{Safkhani2012,
+    author = "M. Safkhani and P. Peris-Lopez and N. Bagheri and M. Naderi1 and J. C. Hernandez-Castro",
+    title =  "On the Security of {Tan} et al. Serverless {RFID} Authentication and Search Protocols",
+    booktitle = "Proceedings of the 8th International Workshop, RFIDSec 2012",
+    pages = "1--19",
+    month = "July",
+    year = "2012"}
+
+@article{Ahmed2008,
+  author        = {S. I. Ahamed and F. Rahman and E. Hoque and F. Kawsar and T. Nakajima},
+  title         = {Secure and Efficient Tag Searching in {RFID} Systems using Serverless Search Protocol},
+  journal       = {Journal of Security and Its Applications},
+  volume        = "2",
+  number        = "4",
+  month         = "October",
+  year          = {2008},
+  pages         = "57--66"
+}
+
+@INPROCEEDINGS{Kulseng2009,
+    author = "L. Kulseng and Z. Yu and Y. Wei and Y. Guan",
+    title =  "Lightweight Secure Search Protocols for Low-cost {RFID} Systems",
+    booktitle = "Proceedings of the 29th IEEE International Conference on Distributed Computing Systems",
+    pages = "40--48",
+    month = "June",
+    year = "2009"}
+
+@INPROCEEDINGS{Hoquesearch2010,
+    author = "M. E. Hoque and F. R. Sheikh and I. Ahmed",
+    title =  "S-Search: Finding {RFID} Tags using Scalable and Secure Search Protocol",
+    booktitle = "Proceedings of the 2010 ACM Symposium on Applied Computing",
+    pages = "439--443",
+    month = "March",
+    year = "2010"}
+
+@article{Yoon2011,
+  author        = {H. S. Yoon and H. Y. Youm},
+  title         = {An Anonymous Search Protocol for {RFID} Systems},
+  journal       = {Journal of Convergence Information Technology},
+  volume        = "6",
+  number        = "8",
+  month         = "August",
+  year          = {2011},
+  pages         = "44--50"
+}
+
+@article{Zheng2013,
+  author        = {Y. Zheng and M. Li},
+  title         = {Fast Tag Searching Protocol for Large-Scale {RFID} Systems},
+  journal       = {IEEE/ACM Transactions on Networking},
+  volume        = "21",
+  number        = "3",
+  month         = "June",
+  year          = {2013},
+  pages         = "924--934"
+}
+
+@INPROCEEDINGS{Min2013,
+    author = "M. Chen and W. Luo and Z. Mo and S. Chen and Y. Fang",
+    title =  "An Efficient Tag Search Protocol in Large-Scale {RFID} Systems",
+    booktitle = "Proceedings of IEEE Infocom",
+    pages = "899--907",
+    month = "",
+    year = "2013"}
+
+@INPROCEEDINGS{Juels2004,
+    author = "A. Juels",
+    title =  "Yoking-proofs for {RFID} tags",
+    booktitle = "Proceedings of the Second IEEE Annual Conference on Pervasive Computing and Communications Workshops",
+    pages = "138--143",
+    month = "March",
+    year = "2004"}
+
+@INPROCEEDINGS{saito2005,
+    author = "J. Saitoh and K. Sakurai",
+    title =  "Grouping Proofs for {RFID} Tags",
+    booktitle = "Proceedings of the 19th International Conference on Advanced Information Networking and Applications",
+    pages = "621--624",
+    month = "March",
+    year = "2005"}
+
+@INPROCEEDINGS{PiramuthOB2006,
+    author = "S. Piramuthu",
+    title =  "On Existence Proofs for Multiple {RFID} Tags",
+    booktitle = "Proceedings of the ACS/IEEE International Conference on Pervasive Services",
+    pages = "317--320",
+    month = "June",
+    year = "2006"}
+
+@INPROCEEDINGS{PPLopez2007,
+    author = "P. Peris-Lopez and J. C. Hernandez-Castro and J. M. Estevez-Tapiador and A. Ribagorda",
+    title =  "Solving the simultaneous scanning problem anonymously: clumping proofs for {RFID} tags",
+    booktitle = "Proceedings of the 3rd International Workshop on Security, Privacy and Trust in Pervasive and Ubiquitous Computing",
+    pages = "55--60",
+    month = "July",
+    year = "2007"}
+
+@INPROCEEDINGS{chin-chung2007,
+    author = "C. C. Lin and Y. C. Lai and J. D. Tygar and C. K. Yang and C. L. Chiang",
+    title =  "Coexistence Proof Using Chain of Timestamps for Multiple {RFID} Tags",
+    booktitle = "Proceedings of Advances in Web and Network Technologies and Information Management",
+    pages = "634--643",
+    month = "June",
+    year = "2007"}
+
+@INPROCEEDINGS{Bolotnny2006,
+    author = "L. Bolotnyy and R. Gabriel",
+    title =  "Generalized “Yoking-Proofs” and Inter-tag Communication",
+    booktitle = "Proceedings of International Conference on Mobile and Ubiquitous Systems",
+    pages = "",
+    month = "",
+    year = "2006"}
+
+@INPROCEEDINGS{burmester2009,
+    author = "M. Burmester and B. D. Medeiros and R. Motta",
+    title =  "Provably Secure Grouping-Proofs for {RFID} Tags",
+    booktitle = "Proceedings of the International conference on Smart Card Research and Advanced Applications",
+    pages = "176--190",
+    month = "September",
+    year = "2008"}
+
+@article{yao2010,
+  author        = {Y. C. Yu and T. W. Hou and T. C. Chiang},
+  title         = {Low-Cost {RFID} Real Lightweight Binding Proof Protocol for Medication Errors and Patient Safety},
+  journal       = {Journal of Medical Systems},
+  volume        = "36",
+  number        = "2",
+  month         = "March",
+  year          = {2012},
+  pages         = "823--828"
+}
+
+@INPROCEEDINGS{duc2010,
+    author = "D. N. Duc and J. K. Kim",
+    title =  "Scalable Grouping-proof Protocol for {RFID} Tags",
+    booktitle = "Proceedings of the 2010 Symposium on Cryptography and Information Security",
+    pages = "",
+    month = "",
+    year = "2010"}
+
+@article{Nai2010,
+  author        = {N. W. Lo and K. H. Yeh},
+  title         = {Anonymous Coexistence Proofs for {RFID} Tags},
+  journal       = {Journal of Information Science and Engineering},
+  volume        = "26",
+  number        = "4",
+  month         = "July",
+  year          = {2010},
+  pages         = "1213--1230"
+}
+
+@article{shannon1948,
+  author        = {C. E. Shannon},
+  title         = {A Mathematical Theory of Communication},
+  journal       = {The Bell System Technical Journal},
+  volume        = "27",
+  number        = "",
+  month         = "",
+  year          = {1948},
+  pages         = "379--423"
+}
+
+@PhdThesis{dm2007,
+  author = "D. Mukhopadhyay",
+  title = "Design and Analysis of Cellular Automata Based Cryptographic Algorithms",
+  school = "Indian Institute of Technology Kharagpur, India",
+  year = "2007",
+  month = "March"
+}
+
+@TechReport{NIST2007,
+author = {T. Karygiannis and B. Eydt and G. Barber and L. Bunn and T. Phillips},
+title = {Guidelines for Securing Radio Frequency Identification {(RFID)} Systems},
+institution = {National Institute of Standards \& Technology (NIST), USA},
+year = {2007},
+}
+
+@Misc{Woodland1952,
+author = {N. J. Woodland and S. Bernard},
+title = {Classifying apparatus and method},
+month = {October},
+year = {1952},
+note = {US Patent 2,612,994},
+}
+
+@Misc{Adams1995,
+author = {R. Adams},
+title = {Bar Code 1: 2 Dimensional bar code page},
+year = {1995},
+note = {http://www.adams1.com/pub/russadam/stack.html},
+}
+
+@InProceedings{Obuchi2004,
+author = {E. Obuchi and H. Hanaizumi and L. A. Hock},
+title = {Barcode Readers using the Camera Device in Mobile Phones},
+booktitle = {Proceedingd of the International Conference on Cyberworlds},
+pages = {260--265},
+year = {2004},
+month = {November},
+}
+
+@Article{Zhang2012,
+author = {W. Zhang and D. Li},
+title = {Research on Barcode Image Binarization in Barcode Positioning System},
+journal = {Journal of Computer Science Issues},
+year = {2012},
+volume = {9},
+number = {5},
+pages = {108--112},
+month = {September},
+}
+
+@MastersThesis{Lyons2009,
+author = {S. Lyons},
+title = {Two-Dimensional Barcodes for Mobile Phones},
+school = {University of Toronto
+, Canada},
+year = {2009},
+}
+
+@MastersThesis{McCathie2004,
+author = {L. McCathie},
+title = {The advantages and disadvantages of barcodes and radio frequency identification in supply chain management},
+school = {University of Wollongong},
+year = {2004},
+}
+
+@Article{Hearn2014,
+author = {A. Hearn},
+title = {{1D} BarCode Verification Process Implementation Guideline},
+journal = {Journal of Ratified},
+year = {2014},
+volume = {24},
+pages = {1--45},
+month = {June},
+}
+
+@Article{Querini2011,
+author = {M. Querini and A. Grillo and A. Lentini and G. F. Italiano},
+title = {{2D} Color Barcodes for Mobile Phone},
+journal = {Journal of Computer Science and Applications},
+year = {2011},
+volume = {8},
+number = {1},
+pages = {136--155},
+}
+
+@Article{Fuh2013,
+author = {J. Lin and C. Fuh},
+title = {{2D} Barcode Image Decoding},
+journal = {Journal of Mathematical Problems in Engineering},
+year = {2013},
+pages = {1--10},
+}
+
+@Article{Belussi2013,
+author = {L. F. F. Belussi and N. S. T. Hirata},
+title = {Fast component-based {QR} code detection in arbitrarily acquired images},
+journal = {Journal of Mathematical Imaging and Vision},
+year = {2013},
+volume = {45},
+number = {3},
+pages = {277--292},
+}
+
+@Book{Blecker2008,
+author = {T. Blecker and G. Q. Huang},
+title = {Improvement of Supply Chain Performances Using {RFID} Technology},
+publisher = {Erich Schmidt Verlag, Berlin},
+year = {2008},
+}
+
+@Article{Srivastava2004,
+author = {B. Srivastava},
+title = {Radio frequency {ID} technology: The next revolution in {SCM}},
+journal = {Journal on Business Horizons},
+year = {2004},
+volume = {47},
+number = {6},
+pages = {60--68},
+month = {November},
+}
+
+@Article{Weinstein2005,
+author = {R. Weinstein},
+title = {{RFID}: a technical overview and its application to the enterprise},
+journal = {Journal of IT Professional},
+year = {2005},
+volume = {7},
+number = {3},
+pages = {27--33},
+month = {May},
+}
+
+@Article{Want2006,
+author = {R. Want},
+title = {An introduction to {RFID} technology},
+journal = {Journal of Pervasive Computing},
+year = {2006},
+volume = {5},
+number = {1},
+pages = {25--33},
+month = {January},
+}
+
+
+@Book{Curty2007,
+author = {J. P. Curty and M. Declercq and C. Dehollain and N. Joehl},
+title = {Design and Optimization of Passive {UHF RFID} System},
+publisher = {Springer US},
+year = {2007},
+}
+
+@Article{Pillai2007,
+author = {V. Pillai and H. Heinrich and D. Dieska and P. V. Nikitin and R. Martinez and K. V. S. Rao},
+title = {An Ultra-Low-Power Long Range Battery/Passive {RFID} Tag for {UHF} and Microwave Bands With a Current Consumption of 700 n{A} at 1.5 {V}},
+journal = {IEEE Transaction on Circuits and Systems},
+year = {2007},
+volume = {54},
+number = {7},
+pages = {1500--1512},
+month = {July},
+}
+
+@Article{Xue-cheng2006,
+author = {L. D. Sheng and Z. Xue-cheng and Z. Fan and D. Min},
+title = {Embeded {EEPROM} Memory Achieving Lower Power - New design of {EEPROM} memory for {RFID} tag {IC}},
+journal = {IEEE Magazine on Circuits and Devices},
+year = {2006},
+volume = {22},
+number = {6},
+pages = {53--59},
+month = {November},
+}
+
+@InProceedings{Nikitin2007,
+author = {P. V. Nikitin and K. V. S. Rao},
+title = {Performance of {RFID} tags with multiple {RF} ports},
+booktitle = {Proceedings of International Symposium on Antennas and Propagation Society},
+pages = {5459--5462},
+year = {2007},
+month = {June},
+}
+
+@InProceedings{Hribernik2009,
+author = {K. A. Hribernik and C. Hans and K. Thoben},
+title = {The Application of the {EPCglobal} Framework Architecture to Autonomous Control in Logistics},
+booktitle = {Proceedings of International Conference on {LDIC}},
+pages = {365--374},
+year = {2009},
+month = {August},
+}
+
+@Article{Pyo2005,
+author = {H. W. Son and  C. S. Pyo},
+title = {Design of {RFID} tag antennas using an inductively coupled feed},
+journal = {IET Electronics Letters},
+year = {2005},
+volume = {41},
+number = {18},
+pages = {994--996},
+month = {September},
+}
+
+@InProceedings{Moskowitz2005,
+author = {K. Gunter and P. A. Moskowitz},
+title = {Disabling {RFID} tags with visible confirmation: clipped tags are silenced},
+booktitle = {Proceedings of ACM workshop on Privacy in the electronic society},
+pages = {27--30},
+year = {2005},
+month = {July},
+}
+
+@InProceedings{Mediterranean2004,
+author = {M. Feldhofer},
+title = {An authentication protocol in a security layer for {RFID} smart tags},
+booktitle = {Proceedings of the Twelvth IEEE Conference on Electrotechnical Mediterranean},
+pages = {759--762},
+year = {2004},
+month = {May},
+}
+
+@InProceedings{Feng2006,
+author = {B. Feng and J. Li and J. Guo and Z. Ding},
+title = {{ID}-Binary Tree Stack Anticollision Algorithm for {RFID}},
+booktitle = {Proceedings of the Eleventh IEEE Symposium on Computers and Communications},
+pages = {207--212},
+year = {2006},
+month = {June},
+}
+
+@Article{MLI2012,
+author = {Y. Zheng and M. Li},
+title = {{PET}: Probabilistic Estimating Tree for Large-Scale {RFID} Estimation},
+journal = {IEEE Transactions on Mobile Computing},
+year = {2012},
+volume = {11},
+number = {11},
+pages = {1763--1774},
+month = {September},
+}
+
+@InProceedings{SESarma2002,
+author = {S. E. Sarma and S. A. Weis and D. W. Engels},
+title = {{RFID} Systems and Security and Privacy Implications},
+booktitle = {Proceedings of the Fourth International Workshop on Redwood Shores},
+pages = {454-469},
+year = {2002},
+month = {August},
+}
+
+@InProceedings{Bulan2009,
+author = {O. Bulan and V. Monga and G. Sharma},
+title = {High capacity color barcodes using dot orientation and color separability},
+booktitle = {Proceedings of SPIE-IS and T Electronic Imaging},
+year = {2009},
+}
+
+@InProceedings{Pei2008,
+author = {S. Pei and G. Li and B. Wu},
+title = {Codec system design for continuous color barcode symbols},
+booktitle = {Proceedings of the 8th International Conference on Computer and Information Technology Workshops},
+pages = {539--544},
+year = {2008},
+}
+
+@InProceedings{Bagherinia2011,
+author = {H. Bagherinia and R. Manduchi},
+title = {A Theory of Color Barcodes},
+booktitle = {Proceedings of the Computer Vision Workshops},
+pages = {806--813},
+year = {2011},
+month = {November},
+}
+
+@Article{juelsRFIDsecurity2005,
+author = {A. Juels},
+title = {{RFID} security and privacy: A research survey},
+journal = {IEEE Journsl on Selected Areas in Communications},
+year = {2006},
+volume = {24},
+number = {2},
+pages = {382--394},
+month = {February},
+}
+
+@InProceedings{PPlopez2006,
+author = {P. Peris-Lopez and J.C. Hernandez-Castro and J.M. Estevez-Tapidor and Ribagorda},
+title = {{RFID} systems: A survey on security threats and proposed solutions},
+booktitle = {Proccedings of the $11^{th}$ International Conference Personal Wireless Communication},
+pages = {159--170},
+year = {2006},
+month = {September},
+}
+
+@Article{piramuthuRFIDsecurity2007 ,
+author = {S. Piramuthu},
+title = {Protocols for {RFID} tag/reader authentication},
+journal = {Journal of Decsision support systems},
+year = {2007},
+volume = {43},
+number = {3},
+pages = {897--914},
+month = {April},
+}
+
+@InProceedings{Feldhoper2005,
+author = {M. Feldhoper and J. Wolkerstorfer and V. Rijmen},
+title = {{AES} implementation on a grain of sand},
+booktitle = {Proceedings of Information security},
+pages = {13--20},
+year = {2005},
+month = {October},
+}
+
+@InProceedings{Satoh2001,
+author = {A. Satoh and S. Morioka and K. Takano and S. Munetoh},
+title = {A compact {Rijndael} hardware architecture with {S-box} optimization},
+booktitle = {Proceedings ASIACRYPT'01},
+pages = {239--254},
+year = {2001},
+}
+
+@InProceedings{Pramstaller2004,
+author = {N. Pramstaller and S. Mangard and S. Dominikus and J. Wolkerstorfer},
+title = {Efficient {AES} implementation on {ASIC}s and {FPGA}s},
+booktitle = {Proceedings of fourth workshop on the Advanced Encryption Standard "AES-State of the Crypto Analysis"},
+pages = {98--112},
+year = {2004},
+}
+
+@InProceedings{Poschmann2007,
+author = {A. Poschmann and G. Leander and K. Schramm and C. Paar},
+title = {New lightweight crypto algorithms for {RFID}},
+booktitle = {IEEE Internation symphosium on circuits and systems},
+pages = {1843--1846},
+year = {2007},
+}
+
+@InProceedings{Skumar2006,
+author = {S. Kumar and C. Paar and J. Pelzl and G. Pfeiffer and M. Schimmler},
+title = {Breaking ciphers with with {COPACOBANA-A} cost optimized parallel code breaker},
+booktitle = {Proceedings of CHES'06},
+pages = {101--118},
+year = {2006},
+}
+
+@InProceedings{ABogdanov2007,
+author = {A. Bogdanov and L. R. Knudsen and G. Leander and C. Paar and A. Poschmann and M. J. B. Robshaw and Y. Seurin and C. Vikkelsoe},
+title = {{PRESESNT}: An ultra-lightweight cipher},
+booktitle = {Proceedings of CHES'07},
+pages = {450--466},
+year = {2007},
+}
+
+@Unpublished{Mwan2007,
+author = {M. Wan},
+title = {Differential cryptanalysis of {PRESENT}},
+note = {Cryptology ePrint Archive, Report 2007/408},
+year = {2007},
+}
+
+@InProceedings{DHong2006,
+author = {D. Hong and J. Sung and S. Hong and J. Lim and S. Lee and B. S. Koo and C. Lee and D. Chang and J. Lee and K. jeong and H. Kim and J. Kim and S. Chee},
+title = {{HIGHT}: A new block cipher suitable for low-resource device},
+booktitle = {Proceedings of CHESS'06},
+pages = {46--59},
+year = {2006},
+}
+
+@InProceedings{TShirai2007,
+author = {T. Shirai and K. Shibutani and T. Akishita and S. Moriai and T. Iwata},
+title = {The 128-bit block cipher {CLEFIA}},
+booktitle = {Proceedings FSE'07},
+pages = {181--195},
+year = {2007},
+}
+
+@InProceedings{FXStandaert,
+author = {F. X. Standaert and G. Piret and N. Gershenfeld and J. J. Quisquarter},
+title = {{SEA}: A scalable encryption algorithm for small embedded applications},
+booktitle = {Proceedings of CARDIS'06},
+pages = {222--236},
+year = {2006},
+}
+
+@InProceedings{FMace2007,
+author = {F. Mace and F. X. Standaert and J. J. Quisquarter},
+title = {{ASIC} implementations of the block cipher {SEA} for constrained applications},
+booktitle = {Proceedings of RFIDSec'07},
+pages = {103--114},
+year = {2007},
+}
+
+@Article{FMace2008,
+author = {F. Mace and F. X. Standaert and J. J. Quisquarter},
+title = {{FPGA} implementation(s) of scalable encryption algorithm},
+journal = {IEEE transaction on Very Large Scale Integration (VLSI) Systems},
+year = {2008},
+volume = {16},
+pages = {212--216},
+}
+
+@InProceedings{DWheeler1994,
+author = {D. Wheeler and R. Needham},
+title = {{TEA}: A tiny encryption algorithm},
+booktitle = {Proceedings of FSE'04},
+pages = {363--366},
+year = {1994},
+}
+
+@TechReport{RNeedham1997,
+author = {R. Needham and D. Wheeler},
+title = {{TEA} extensions},
+institution = {Computer laboratory, University of Cambridge},
+year = {1997},
+}
+
+@TechReport{RNeedham1998,
+author = {R. Needham and D. Wheeler},
+title = {Correction to {XTEA}},
+institution = {Computer laboratory, University of Cambridge},
+year = {1998},
+}
+
+@Misc{Mhell2005,
+author = {M. Hell and T. Johansson and W. Meier},
+title = {Grain: A stream cipher for constrained environments},
+year = {2005},
+note = {http://www.ecrypt.eu.org/stream/},
+}
+
+@Misc{Mhell2006,
+author = {M. Hell and T. Johansson and W. Meier},
+title = {A stream cipher proposal: Grain-128},
+year = {2006},
+note = {http://www.ecrypt.eu.org/stream/},
+}
+
+@Misc{CDeCannire2005,
+author = {C. Cannire and B. Preneel},
+title = {Trivium specification},
+year = {2005},
+note = {http://wwww.ecrypt.eu.org/stream/},
+}
+
+@Misc{MRogawski2007,
+author = {M. Rogawski},
+title = {Hardware evaluation of e{STREAM} candidates: Grain,  Lex, Mickey-128, Salsa20 and Trivium},
+year = {2007},
+note = {http://www.ecrypt.eu.org/stream/},
+}
+
+@Misc{TGood2007,
+author = {T. Good and M. Benaissa},
+title = {Hardware results for selected stream cipher candidates},
+year = {2007},
+note = {http://www.ecrypt.eu.org/stream/},
+}
+
+@Misc{PBulens,
+author = {P. Bulens and K. Kalach and F. X. Standaert and J. J. Quisquater},
+title = {{FPGA} implementations of e{STREAM} phase-2 focus candidates with hardware profile},
+year = {2007},
+note = {http://www.ecrypt.eu.org/stream/},
+}
+
+@InProceedings{Feldhofer2006,
+author = {M. Feldhofer and C. Rechberger},
+title = {A case against currently used hash functions in {RFID} protocols},
+booktitle = {Proceedings of Workshop on RFID and Lightweight Cryptography},
+year = {2006},
+}
+
+@InProceedings{KYksel2004,
+author = {K. Yksel and J. P. Kaps and B. Sunar},
+title = {Universal hash functions for emerging ultra-low-power networks},
+booktitle = {Proceedings of CNDS'04},
+year = {2004},
+}
+
+@InProceedings{PPLopezRFIDauthentication2006,
+author = {P. Peris-Lopez and J. C. Harnandez-Castro and J. Estevez-Tapiador and A. Ribagorda},
+title = {An efficient authentication protocol for {RFID} systems resistant to active attacks},
+booktitle = {Proceedings SecUbiq'07},
+pages = {781--794},
+year = {2006},
+}
+
+@Article{PPLopez2009,
+author = {P. Peris-Lopez and J. C. Harnandez-Castro and J. Estevez-Tapiador and A. Ribagorda},
+title = {{LAMED-A PRNG} for {EPC} Class-1 Generation-2 {RFID} specification},
+journal = {Journal of Computer Standards and Interfaces},
+year = {2009},
+volume = {31},
+number = {1},
+pages = {88--97},
+month = {January},
+}
+
+@Misc{JWalker1998,
+author = {J. Walker},
+title = {Randomness battery},
+year = {1998},
+note = {http://www.fourmilab.ch/random/},
+}
+
+@Misc{GMarsaglia,
+author = {G. Marsaglia},
+title = {The Marsaglia random number {CDROM} including the {DIEHARD} battery of tests of randomness},
+}
+
+@Article{GMarsaglia2002,
+author = {G. Marsaglia and W. W. Tsang},
+title = {Some difficult-to-pass tests of randomness},
+journal = {Journal of Statistical Software},
+year = {2002},
+volume = {7},
+number = {3},
+pages = {1--8},
+}
+
+@Misc{ARukhin2001,
+author = {A. Rukhin and J. Soto and J. Nechvatal and M. Smid and E. Barker and S. Leigh and M. Levenson and M. Vangel and D. Banks and A. Heckert and J. Dray and S. Vo},
+title = {A statistical test suit for random and pseudorandom number generators for cryptographic applications},
+year = {2001},
+note = {NIST special publication 800-22, http://csrc.nist.gov/rng/},
+}
+
+@Misc{DavidSexton2005,
+author = {D.  Sexton},
+title = {David Sexton's battery},
+year = {2005},
+note = {http://www.geocities.com/da5id65536},
+}

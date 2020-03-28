@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{12008}
+E.~W.~T. Ngaia, K.~L.~M. Karen, J.~R. Frederick, and Y.~Y. Candace.
+\newblock {RFID} research: An academic literature review (1995--2005) and
+  future research directions.
+\newblock {\em Journal of Production Economics}, 112(2):510--520, April 2008.
+
+\bibitem{22009}
+Y.~Zhang and P.~Kitsos.
+\newblock {\em Security in {RFID} and Sensor Networks}.
+\newblock CRC Press, 2009.
+
+\bibitem{32006}
+G.~Tsudik.
+\newblock {YA-TRAP}: Yet another trivial {RFID} authentication protocol.
+\newblock In {\em Proceedings of the Fourth Annual IEEE International
+  Conference on Pervasive Computing and Communications Workshops}, pages
+  640--643, 2006.
+
+\bibitem{42005}
+H.~Gilbert, M.~Robshaw, and H.~Sibert.
+\newblock An active attack against {HB+} - a provably secure lightweight
+  protocol.
+\newblock Cryptology ePrint Archive, Report 2005/237, http://eprint.iacr.org,
+  2005.
+
+\bibitem{52007}
+ABCD.
+\newblock {\em mnop}.
+\newblock PhD thesis, Indian Institute of Information Technology Guwahati,
+  India, March 2019.
+
+\bibitem{62007}
+T.~Karygiannis, B.~Eydt, G.~Barber, L.~Bunn, and T.~Phillips.
+\newblock Guidelines for securing radio frequency identification {(RFID)}
+  systems.
+\newblock Technical report, National Institute of Standards \& Technology
+  (NIST), USA, 2007.
+
+\end{thebibliography}

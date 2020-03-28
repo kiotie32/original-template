@@ -1,0 +1,74 @@
+\BOOKMARK [0][-]{bm:Title.0}{Title Page}{}
+\BOOKMARK [0][-]{bm:Title.0}{Title Page}{}
+\BOOKMARK [0][-]{bm:Approval.0}{Approval Page}{}
+\BOOKMARK [0][-]{bm:Accept.0}{Certificate Page}{}
+\BOOKMARK [0][-]{bm:Declaration.0}{Declaration}{}
+\BOOKMARK [0][-]{bm:Acknowledge.0}{Acknowledgments}{}
+\BOOKMARK [0][-]{bm:Abstract.0}{Abstract}{}
+\BOOKMARK [0][-]{section*.1}{Table of Contents}{}
+\BOOKMARK [0][-]{section*.3}{Author's Biography}{}
+\BOOKMARK [0][-]{section*.5}{List of Figures}{}
+\BOOKMARK [0][-]{section*.7}{List of Tables}{}
+\BOOKMARK [0][-]{chapter.1}{1 Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{1.1 Motivation}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.1.1}{1.1.1 Object authentication}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.2}{1.1.2 Searching a desired object using RFID technology}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.3}{1.1.3 Coexistence proof generation and validation for multiple relevant objects}{section.1.1}
+\BOOKMARK [1][-]{section.1.2}{1.2 Objective of the thesis}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{1.3 Contribution of the thesis}{chapter.1}
+\BOOKMARK [1][-]{section.1.4}{1.4 Organization of the thesis}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{2 Background and Literature Review}{}
+\BOOKMARK [1][-]{section.2.1}{2.1 Barcode technology}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{2.2 RFID technology}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 RFID system components}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{2.3 Multi-tag RFID system}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Incidence angle}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Tag orientation}{section.2.3}
+\BOOKMARK [1][-]{section.2.4}{2.4 Security and privacy issues in RFID technology}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Cryptographic primitives}{section.2.4}
+\BOOKMARK [1][-]{section.2.5}{2.5 Protocols in RFID technology}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 Existing object authentication protocols}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 Existing object searching schemes}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.3}{2.5.3 Existing coexistence proof generation scheme}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.4}{2.5.4 Scope of further work}{section.2.5}
+\BOOKMARK [0][-]{chapter.3}{3 Approaches to Solve Location Privacy and Message Blocking Problems}{}
+\BOOKMARK [1][-]{section.3.1}{3.1 Proposed solution for solving the tracking problem during the time between two successful sessions}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Fingerprint Based Authentication Protocol Khor2010}{section.3.1}
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Proposed solution to preserve the location privacy}{section.3.1}
+\BOOKMARK [1][-]{section.3.2}{3.2 Implementation details}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{3.3 Message blocking problem suffered by the authentication protocol proposed by Khor et al. Khor2010}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Remove the message blocking problem}{section.3.3}
+\BOOKMARK [1][-]{section.3.4}{3.4 Conclusion}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{4 Managing authentication and detection probability in Multi-tag RFID system}{}
+\BOOKMARK [1][-]{section.4.1}{4.1 Object authentication using RFID technology: A Multi-tag approach}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Communication Model}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Proposed Protocol}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Analysis of the Proposed Scheme}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{4.2 Traffic congestion problem due to multi-tag environment}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Communication model}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Proposed authentication scheme}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Analysis of the scheme}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.4}{4.2.4 Conclusion}{section.4.2}
+\BOOKMARK [0][-]{chapter.5}{5 A New Object Searching Protocol for Multi-tag RFID}{}
+\BOOKMARK [1][-]{section.5.1}{5.1 Communication model}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{5.2 Proposed object searching protocol}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Information in the tag memory and backend server}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Description of the protocol}{section.5.2}
+\BOOKMARK [1][-]{section.5.3}{5.3 Analysis of the proposed scheme}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 Security analysis}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Comparison}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.3}{5.3.3 Communication overhead}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.4}{5.3.4 Storage overhead}{section.5.3}
+\BOOKMARK [1][-]{section.5.4}{5.4 Conclusion}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{6 Generation of a Proof of Coexistence of Multiple Objects in Multi-tag Arrangement}{}
+\BOOKMARK [1][-]{section.6.1}{6.1 Communication model}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{6.2 Proof generation protocol}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Database}{section.6.2}
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Proposed protocol}{section.6.2}
+\BOOKMARK [1][-]{section.6.3}{6.3 Analysis of the proposed scheme}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Security analysis}{section.6.3}
+\BOOKMARK [1][-]{section.6.4}{6.4 Resource requirement and efficiency}{chapter.6}
+\BOOKMARK [1][-]{section.6.5}{6.5 Proof generation protocol for a group of more than two objects}{chapter.6}
+\BOOKMARK [1][-]{section.6.6}{6.6 Conclusion}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{7 Conclusion}{}
+\BOOKMARK [0][-]{section*.9}{Bibliography}{}
